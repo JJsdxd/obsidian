@@ -37,7 +37,7 @@
 - [ ] linear and non linear equalizers - examples
 - [ ] Outage Probability
 
-- [ ] Problems
-- [ ] Critical Frequency, Skip Distace
-- [ ] Maximum Usable Frequency
+- [ ] Problems - LOS distance
+- [ ] Effect of earths magnetic field on radio wave propagattion
+- [ ] Critical Frequency, Skip Distance, Maximum Usable Frequency
 - [ ] 
