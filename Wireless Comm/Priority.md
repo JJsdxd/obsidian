@@ -40,4 +40,6 @@
 - [ ] Problems - LOS distance
 - [ ] Effect of earths magnetic field on radio wave propagattion
 - [ ] Critical Frequency, Skip Distance, Maximum Usable Frequency
+- [ ] Derive Maximum usable Frequency in terms of Critcal Frequency, height of ionospheric regionat point of reflection and skip distance
+- [ ] critical frequecy problem - maximum electronic concentration
 - [ ] 
