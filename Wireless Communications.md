@@ -27,4 +27,6 @@ Module 4 Diversity Equalization and Multiple Access
 - [ ] Multiple Access - FDMA, TDMA, CDMA, OFDMA
 
 Module 5 Radio Wave Propagation
-- [ ] Ground Wave Propagation, Plane Earth reflection
+- [ ] Ground Wave Propagation, Plane Earth reflection, Space Wave and Surface Wave
+- [ ] Spherical earth propagation - Tropospheric waves, ionospheric propagation
+- [ ] Effects of Earth's Magnetic Field, Critical
