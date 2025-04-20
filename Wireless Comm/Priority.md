@@ -8,4 +8,4 @@
 
 
 - [ ] Two Ray model Derivation
-- [ ] 
+- [ ] Fading sm
