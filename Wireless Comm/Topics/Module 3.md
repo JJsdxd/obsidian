@@ -8,5 +8,5 @@
 - data rate in individual subchannel much less than total data rate
 - subchannel bandwidth is also much lesser than total system bandwidth *number of subchannels chosen in order to create subchannels with bandwidth less than coherence bandwidth for relatively flat fading*
 - the Inter Symbol Interference is reduced due to the closeness to coherence bandwidth 
-- 
+- the subchannels need not be **continuos**
 
