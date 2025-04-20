@@ -31,8 +31,8 @@
 - [ ] ZF equaliser - FIGURE
 - [ ] TDMA, FDMA. CDMA - features, comparison
 - [ ] impluse response of Minimum Mean Square Error(MMSE) Equaliser - DERIVATION ,Diagram
-- [ ] Principle of Selection Combining(SC) diversity
 - [ ] three tap ZERO FORCING EQUALISER - DESIGN
+- [ ] Principle of Selection Combining(SC) diversity
 - [ ] types of Diversity in wireless communication
 - [ ] linear and non linear equalizers - examples
 - [ ] Outage Probability
@@ -45,3 +45,5 @@
 - [ ] Spherical Nature of Earth impact on ground wave propagation
 - [ ] 300MHz above radio wave propagation 
 - [ ] Virtual height of ionospheric layer
+
+[[Wireless Communications]][[ECT402 WIRELESS COMMUNICATION, JUNE 2023.pdf]][[ECT402 WIRELESS COMMUNICATION, MAY 2024.pdf]]
