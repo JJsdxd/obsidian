@@ -21,5 +21,5 @@ Module 3 Modulation Techniques
 - [ ] Peak to Average Power Ratio -reduction methods
 
 Module 4 Diversity Equalization and Multiple Access
-- [ ] Receiver Diversity
+- [ ] Receiver Diversity - Selection Combining
 - [ ] 
