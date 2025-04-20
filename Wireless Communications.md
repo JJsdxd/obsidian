@@ -3,4 +3,5 @@ Module 1
 - [ ] Wireless LAN, Bluetooth, PAN, Broadband Wireless Access --WiMAX Technology
 - [ ] Wireless Spectrum Allocation Standard
 - [ ] Cellular Concept, Frequency Reuse, Channel assignment strategies, Handoff strategies
-	- [ ] Interference and system Capacity, trunking
+- [ ] Interference and system Capacity, trunking and grade off service
+- [ ] improving coverage and capacity - cell splitting , sectoring, microcells
