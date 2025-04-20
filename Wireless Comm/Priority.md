@@ -5,7 +5,15 @@
 - [ ] cellular system capacity diagrams
 - [ ] trunking & grade of service with formulae
 - [ ] cellular system problem
+- [ ] standards
 
 
 - [ ] Two Ray model Derivation
-- [ ] Fading sm
+- [ ] Fading 
+- [ ] small scale fading types
+- [ ] flat fading
+- [ ] frequency selective fading
+- [ ] problems
+- [ ] SNR problems
+- [ ] fraunhofer
+- [ ] coherence b
