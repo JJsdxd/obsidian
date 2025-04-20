@@ -12,4 +12,6 @@
 - is efficiently implemented in digital communication in Orthogonal Frequency Division Multiplexing(OFDM) ISI can be completely eliminated with the use of **Cyclic prefix**
 - the symbol time is much greater than delay spread  
 - Tm=1/Bc delay spread = 1/Coherence Bandwidth
+- B = N(1+$\beta$ +$\varepsilon$)/Tn  $\beta$ -roll off /guard band factor, $\varepsilon$ -channel fading **FOR NON-OVERLAPPING SUBCHANNELS**
+- B= (N + $\beta$ + $\varepsilon$)/Tn **FOR OVERLAPPING SUBCHANNELS**
 - 

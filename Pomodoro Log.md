@@ -43,4 +43,4 @@
 		- Virtual height of ionospheric layer- 🍅 Sunday, April 20 2025, 9:11 PM [[Module 3]] 35 minute/s. 
 	- New/UnTicked Items :
 		- Average Probability of Error in BPSK Rayleigh fading Ts~=Tc
-		- Multicarrier modulation schemes ISI
+		- Multicarrier modulation schemes ISI- 🍅 Sunday, April 20 2025, 11:38 PM [[Module 3]] 35 minute/s. 
