@@ -23,5 +23,5 @@ Module 3 Modulation Techniques
 Module 4 Diversity Equalization and Multiple Access
 - [ ] Receiver Diversity - Selection Combining, Maximal Ratio Combining
 - [ ] Transmit Diversity - Alamouti for 2X2 MIMO
-- [ ] Equalization - Linear
-- [ ] 
+- [ ] Equalization - Linear and nonlinear, ZF and MMSE, LMS, Adaptive
+- [ ] Multiple Access - FDMA, TDMA, CDMA OF
