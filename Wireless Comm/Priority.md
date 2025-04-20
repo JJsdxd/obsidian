@@ -21,6 +21,8 @@
 - [ ] Ergodic capacity 
 
 
+- [ ]  Outage probability of BPSK in flat fading channels relation to Fade margin 
+- [ ] Peak to Average Power Ratio in OFDM how can it be reduced
 - [ ] multicarrier modulation schemes -ISI, principles
 - [ ] bit error probability in BPSK - expression
-- [ ] Otage probability 
+- [ ] 
