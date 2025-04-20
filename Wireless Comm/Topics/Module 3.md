@@ -1,3 +1,3 @@
 [[Wireless Communications]]
 
-- [ ] Average Probability of Error
+- [ ] Average Probability of Error in BPSK Rayleigh fading Ts~=
