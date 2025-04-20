@@ -37,9 +37,11 @@
 - [ ] linear and non linear equalizers - examples
 - [ ] Outage Probability
 
-- [ ] Problems - LOS distance, critical frequency problem - maximum electronic concentration, skip distance calculation
+- [ ] Problems - LOS distance, critical frequency problem - maximum electronic concentration, skip distance calculation, aircraft problem
 - [ ] Effect of earths magnetic field on radio wave propagattion
 - [ ] Critical Frequency, Skip Distance, Maximum Usable Frequency
 - [ ] DERIVE Maximum usable Frequency in terms of Critcal Frequency, height of ionospheric regionat point of reflection and skip distance
 - [ ] DERIVE Critical frequency in terms of inonization density
 - [ ] Spherical Nature of Earth impact on ground wave propagation
+- [ ] 300MHz above radio wave propagation 
+- [ ] Virtual height of ionospheric layer
