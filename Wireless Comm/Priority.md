@@ -36,4 +36,8 @@
 - [ ] types of Diversity in wireless communication
 - [ ] linear and non linear equalizers - examples
 - [ ] Outage Probability
+
+- [ ] Problems
+- [ ] Critical Frequency, Skip Distace
+- [ ] Maximum Usable Frequency
 - [ ] 
