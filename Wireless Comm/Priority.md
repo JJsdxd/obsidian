@@ -1,0 +1,4 @@
+- [ ] WLAN
+- [ ] SIR problem
+- [ ] 2G, 3G, 4G,5G
+- [ ] interference and effect
