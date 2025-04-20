@@ -5,3 +5,6 @@ Module 1
 - [ ] Cellular Concept, Frequency Reuse, Channel assignment strategies, Handoff strategies
 - [ ] Interference and system Capacity, trunking and grade off service
 - [ ] improving coverage and capacity - cell splitting , sectoring, microcells
+Module 2 Wireless Channels
+- [ ] Free Space Path loss, Two Ray model, Shadowing
+- [ ] 
