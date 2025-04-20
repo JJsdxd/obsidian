@@ -21,4 +21,6 @@
 - [ ] Ergodic capacity 
 
 
-- [ ] multicarr
+- [ ] multicarrier modulation schemes -ISI, principles
+- [ ] bit error probability in BPSK - expression
+- [ ] Otage probability 
