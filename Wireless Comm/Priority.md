@@ -16,4 +16,9 @@
 - [ ] problems
 - [ ] SNR problems
 - [ ] fraunhofer
-- [ ] coherence b
+- [ ] coherence bandwidth - in terms of rms delay
+- [ ] multipath propagation
+- [ ] Ergodic capacity 
+
+
+- [ ] multicarr
