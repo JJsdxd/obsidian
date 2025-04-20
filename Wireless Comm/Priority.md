@@ -27,4 +27,6 @@
 - [ ] advantages and disadvantages of OFDM
 - [ ] multicarrier modulation schemes -ISI, principles, subcarrier fading, BLOCK DIAGRAM
 - [ ] bit error probability in BPSK - expression
-- [ ] 
+
+- [ ] ZF equaliser - FIGURE
+- [ ] TDMA, FDMA CDMA - features, comparison
