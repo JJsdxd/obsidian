@@ -29,4 +29,4 @@ Module 4 Diversity Equalization and Multiple Access
 Module 5 Radio Wave Propagation
 - [ ] Ground Wave Propagation, Plane Earth reflection, Space Wave and Surface Wave
 - [ ] Spherical earth propagation - Tropospheric waves, ionospheric propagation
-- [ ] Effects of Earth's Magnetic Field, Critical Frequency, Maximum usable Frequency, Actual Height
+- [ ] Effects of Earth's Magnetic Field, Critical Frequency, Maximum usable Frequency, virtual Height
