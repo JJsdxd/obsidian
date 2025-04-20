@@ -9,5 +9,6 @@
 - subchannel bandwidth is also much lesser than total system bandwidth *number of subchannels chosen in order to create subchannels with bandwidth less than coherence bandwidth for relatively flat fading*
 - the Inter Symbol Interference is reduced due to the closeness to coherence bandwidth 
 - the subchannels need not be **continuous**
-- is efficiently implemented in digital communication in Orthogonal F
+- is efficiently implemented in digital communication in Orthogonal Frequency Division Multiplexing(OFDM) ISI can be completely eliminated with the use of **Cyclic prefix**
+- the symbol time is much greater than delay spread 
 
