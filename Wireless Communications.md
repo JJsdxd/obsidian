@@ -21,5 +21,7 @@ Module 3 Modulation Techniques
 - [ ] Peak to Average Power Ratio -reduction methods
 
 Module 4 Diversity Equalization and Multiple Access
-- [ ] Receiver Diversity - Selection Combining
+- [ ] Receiver Diversity - Selection Combining, Maximal Ratio Combining
+- [ ] Transmit Diversity - Alamouti for 2X2 MIMO
+- [ ] Equalization - Linear
 - [ ] 
