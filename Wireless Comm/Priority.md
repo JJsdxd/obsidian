@@ -29,4 +29,6 @@
 - [ ] bit error probability in BPSK - expression
 
 - [ ] ZF equaliser - FIGURE
-- [ ] TDMA, FDMA CDMA - features, comparison
+- [ ] TDMA, FDMA. CDMA - features, comparison
+- [ ] impluse response of Minimum Mean Square Error(MMSE) Equaliser - DERIVATION ,Diagram
+- [ ] 
