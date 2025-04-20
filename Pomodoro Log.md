@@ -40,4 +40,7 @@
 		- DERIVE Critical frequency in terms of inonization density
 		- Spherical Nature of Earth impact on ground wave propagation
 		- 300MHz above radio wave propagation
-		- Virtual height of ionospheric layer
+		- Virtual height of ionospheric layer- 🍅 Sunday, April 20 2025, 9:11 PM [[Module 3]] 35 minute/s. 
+	- New/UnTicked Items :
+		- Average Probability of Error in BPSK Rayleigh fading Ts~=Tc
+		- Multicarrier modulation schemes ISI

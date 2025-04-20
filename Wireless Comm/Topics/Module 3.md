@@ -5,4 +5,5 @@
 - Uses multiple parallel sub channels instead of a single channel for wireless high data rate communication
 - transmitted bitstream is split up into many different substreams to be transmitted over subchannels 
 - Under ideal conditions the channels are orthogonal in nature
-- data rate in individual subchannel much less than total
+- data rate in individual subchannel much less than total data rate
+- subchannel bandwidth is also much lesser than total system bandwidth *number of subchannels chosen in order to create subchannels with ba*
