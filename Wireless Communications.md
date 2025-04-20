@@ -10,4 +10,6 @@ Module 2 Wireless Channels
 - [ ] Time -Varying channel impulse response, Narrowband Fading
 - [ ] Wideband fading models - Delay Spread and Coherence Bandwidth, Doppler spread, coherence time
 - [ ] Flat fading vs frequency selective fading, Slow fading vs fast fading Discrete time model
-Module 3 
+Module 3 Modulation Techniques
+- [ ] Average Probability of Error and outage Probability
+- [ ] 
