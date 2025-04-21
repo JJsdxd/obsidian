@@ -17,8 +17,8 @@ Module 3 Modulation Techniques
 - [x] Average Probability of Error and outage Probability
 - [ ] Performance evaluation of BPSK in flat fading channels
 - [x] Multi carrier modulation in frequency-selective channel
-- [ ] Orthogonal Frequency Division Multiplexing DFT/IDFT, Cyclic prefix
-- [ ] Peak to Average Power Ratio -reduction methods
+- [x] Orthogonal Frequency Division Multiplexing DFT/IDFT, Cyclic prefix
+- [x] Peak to Average Power Ratio -reduction methods
 
 Module 4 Diversity Equalization and Multiple Access
 - [ ] Receiver Diversity - Selection Combining, Maximal Ratio Combining
