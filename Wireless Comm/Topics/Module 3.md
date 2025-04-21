@@ -19,3 +19,29 @@
 - This needs to be compensated for by use of 
 	- Coding with Interleaving over time and frequency
 	- data bits are encoded into codewords then the resulting coded bits are interleaved across time and frequency 
+	- this system uses the frequency diversity of a multi carrier system to correct for errors by using the received bits from high SNR subchannels to correct errors in subchannels with low SNR
+---
+	- **frequency Equalization** :- The received signal is multiplied by 1/$\alpha$ this removes impact of flat fading But also enhances the Noise power which does not address the performance degradation 
+	- **Precoding** :- Here the inversion occurs in the transmitter instead of the receiver like in frequency equalization by $\alpha$ which is channel flat fading gain obtained via estimation.
+		- requires infinite amount of power in Rayleigh fading channel
+		- Noise power remains same as the division is done before transmission
+	- **Adaptive Loading** :- the data rate and power assigned to each subchannel relative to subchannel gain. This requires knowledge of $\alpha$i in transmitter eg:- Variable rate Variable power MQAM
+	- Cyclic Prefix :- for every sequence of length N the last $\mu$ samples are appended to the front of the sequence resulting in a sample length of N+$\mu$ 
+		- out of which the $\mu$ samples eliminate ISI as well are not required to recover the encoded data 
+		- There is an increase in required data rate per subchannel
+	-**OFDM** :- OFDM converts a wideband channel into a set of narrowband orthogonal subchannels to using cyclic prefix to eliminate flat fading effect and noise via seperate QAM symbol for each subchannel.
+		- The input stream is QAM modulated to give an output of X[0],X[1],..X[N-1] 
+		- This symbol stream is passed through a serial to parallel converter
+		- The output are discrete frequency components of OFDM modulator output s(t)
+		- these frequency components are converted into time domain samples using inverse of DFT via an IFFT algorithm x[n] =x[0]+x[1]+...x[N-1]
+		- A cyclic prefix  is added to this 
+		- These are then ordered by a Parallel to Serial Converter then passed through a Digital to analog converter
+		-  resulting in the baseband OFDM signal which is then upconverted to f$_0$ (+cos2$\pi$f$_0$t)
+		- Receiver 
+		- The received signal is downconverted from f$_0$ 
+		- High frequency components are eliminated using the an LPF
+		- Then it is converted from analog to digital 
+		- The converted signal then has it's first $\mu$ samples removed and Serial to Parallel converted
+		- The parallel components are then passed through an FFT 
+		- Then the data is converted to parallel from Serial form and then passed through QAM demodulator to recover original data
+- ----
