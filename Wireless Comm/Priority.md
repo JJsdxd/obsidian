@@ -1,9 +1,9 @@
-- [ ] 2G, 3G, 4G,5G
-- [ ] interference and effect on system capacity
-- [ ] cellular system capacity diagrams
+- [x] 2G, 3G, 4G,5G
+- [x] interference and effect on system capacity
+- [x] cellular system capacity diagrams
 - [x] WLAN
 - [ ] SIR problem
-- [ ] trunking & grade of service with formulae
+- [x] trunking & grade of service with formulae
 - [ ] cellular system problem
 - [ ] standards
 
@@ -29,7 +29,7 @@
 - [x] bit error probability in BPSK - expression
 
 - [ ] ZF equaliser - FIGURE
-- [ ] TDMA, FDMA. CDMA - features, comparison
+- [x] TDMA, FDMA. CDMA - features, comparison
 - [ ] impluse response of Minimum Mean Square Error(MMSE) Equaliser - DERIVATION ,Diagram
 - [ ] three tap ZERO FORCING EQUALISER - DESIGN
 - [ ] Principle of Selection Combining(SC) diversity
