@@ -1,7 +1,7 @@
 - [ ] 2G, 3G, 4G,5G
 - [ ] interference and effect on system capacity
 - [ ] cellular system capacity diagrams
-- [ ] WLAN
+- [x] WLAN
 - [ ] SIR problem
 - [ ] trunking & grade of service with formulae
 - [ ] cellular system problem
