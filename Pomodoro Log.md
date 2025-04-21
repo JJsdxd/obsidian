@@ -45,4 +45,4 @@
 	- New/UnTicked Items :
 		- Average Probability of Error in BPSK Rayleigh fading Ts~=Tc
 		- Multicarrier modulation schemes ISI
-- 🍅 Sunday, April 20 2025, 11:38 PM [[Module 3]] 35 minute/s. 
+- 🍅 Sunday, April 20 2025, 11:38 PM [[Module 3]] 35 minute/s. 🍅 Monday, April 21 2025, 11:37 PM [[Priority]]
