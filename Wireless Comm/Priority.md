@@ -23,10 +23,10 @@
 
 - [x] average probability of error in BPSK under Rayleigh flat fading DERIVATION
 - [x] multicarrier modulation schemes -ISI, principles, subcarrier fading, BLOCK DIAGRAM
-- [ ]  Outage probability of BPSK in flat fading channels relation to Fade margin 
+- [x]  Outage probability of BPSK in flat fading channels relation to Fade margin 
 - [x] Peak to Average Power Ratio in OFDM how can it be reduced
-- [ ] advantages and disadvantages of OFDM
-- [ ] bit error probability in BPSK - expression
+- [x] advantages and disadvantages of OFDM
+- [x] bit error probability in BPSK - expression
 
 - [ ] ZF equaliser - FIGURE
 - [ ] TDMA, FDMA. CDMA - features, comparison
