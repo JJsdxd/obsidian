@@ -14,4 +14,8 @@
 - Tm=1/Bc delay spread = 1/Coherence Bandwidth
 - B = N(1+$\beta$ +$\varepsilon$)/Tn  $\beta$ -roll off /guard band factor, $\varepsilon$ -channel fading **FOR NON-OVERLAPPING SUBCHANNELS**
 - B= (N + $\beta$ + $\varepsilon$)/Tn **FOR OVERLAPPING SUBCHANNELS**
-- 
+- ---
+- **Subcarrier fading**  ;- each subchannel experiences flat fading which can at times cause HIGH BER in certain channels
+- This needs to be compensated for by use of 
+	- Coding with Interleaving over time and frequency
+	- data bits are encoded into codewords then the resulting coded bits are interleaved across time and frequency 
