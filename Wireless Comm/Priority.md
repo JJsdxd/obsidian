@@ -8,7 +8,7 @@
 - [ ] standards
 
 
-- [ ] Two Ray model Derivation
+- [x] Two Ray model Derivation
 - [ ] Fading 
 - [ ] small scale fading types
 - [ ] flat fading
