@@ -165,6 +165,8 @@ $$
 - [ ] Need for isolation
 - [ ] isolation amplifier DIAGRAM
 - [ ] Man instrument system DIAGRAM
+```mermaid
+```
 - ENERGY SOURCE - provides required power for operation of various components inside the Intrument
 - Measurand - the values to be measured/subject/human to take as readings
 - Sensors/Transducers - converts bioelectric potential to electronic current /vice versa to achieve reading of biological factors/induce actions
