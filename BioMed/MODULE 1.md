@@ -25,9 +25,22 @@ ranges from -100mv to -60mv
 	The time period varies with type of cell
 	all or nothing any stimulus below the threshold -55mV does not cause any depolarization/action and any stimulus above will trigger it
 
-	stays at -70mV upon stimulus moves to
+	stays at -70mV upon stimulus above -55mV Na+ and K+ gates open upon reaching depolarization Gates closes upon falling down the threshold of 0mV active Na+ and K+ pumps stops at -55mV threshold after repolarization slowly climbs and stabilizes at -70mv resting potential
+	nerve and muscle cells take 1ms for action potential 
+	heart cells takes upto 300ms
+	refactory period time taken for the cell to stabilise and get ready for next stimulus 
+		absolute:- no stimuli can act
+		relative:- follows absolute but a higher amplitude stimuli can cause action
+	when a cell is exited and generates an action potential it can act as stimuli for nearby cells and trigger a chain to excite neighbouring cells
+	action potentials in a neuron are generated at one end and propagates to the axon on the other end
+	no backflow due to refactory period
+	rate of propagation through a fiber /cell to cell is called propagation rate
+	in nerves propagation rate is also called conduction rate
+	range from 20-140m/s
+	in heart the rate is 0.2m/s to 0.4m/s
 	
 - [ ] Nernst equation
+	It can be shown that a potential E exists between the 
 - [ ] tissue electrode interface
 - [ ] electrical activity of a muscle
 - [ ] electrode theory
