@@ -70,12 +70,16 @@ $$
 
 - [ ] significance of instrumentation amplifier 
 - [x] Half cell potential 
-- [ ] ECG, EEG, EMG, ERG, EOG, EGG  CONCEPT
-- ECG:- bioelectric potential measured from the heart's electrical activity
-- EEG:- potential from brain's electrical activity
-- EMG:- potential from muscle activity
-- ERG:- potential from retina of the eye
-- EOG:- position and movement of the eye
+- [x] ECG, EEG, EMG, ERG, EOG, EGG  CONCEPT
+- ECG:- bioelectric potential measured from the heart's electrical activity | electrocardiogram
+	- two upper two lower chambers the atria and ventricle pairs act together in sync
+	- cardiovascular system left atria gets oxygenated blood -> left ventricle -> rest of body via aorta , Right atria gets deoxygenated blood from body -> right ventricle -> lungs
+	- They must work in proper time relationship to ensure proper function
+	- cardiac excitation :- action potential initiates at top right atrium known as sinoartirial node (SA) ->activates both atria -> terminates at atrioventricular node (AVN) special fibers (delay line) times the signal properly for the ventricles and after the delay line it spreads through Purkinje fibers for activating both ventricles finally terminates at the tip /apex of the heart 
+- EEG:- potential from brain's electrical activity | Electrp encephalo gram
+- EMG:- potential from muscle activity | Electro Musculo Gram
+- ERG:- potential from retina of the eye | Electro Retino Gram
+- EOG:- position and movement of the eye | Electro Oculo Gram
 - EGG:- Gastric activity | Electro Gastro Gram
 
 
