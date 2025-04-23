@@ -62,6 +62,22 @@ $$
 
 - [ ] electrical activity of a muscle
 - [ ] electrode theory
+- biopotential electrodes
+	- recording electrodes :- converts ionic current in the body to electronic current in the circuit Non polarizable
+	- stimulating electrodes:- converts electronic current in circuit to ionic current in the body/cells Polarizable
+- Polarizable electrodes does not allow charge pass through when a current is applied platinum
+- non-Polarizable electrodes that allow charge pass through even with current applied AgCl
+- **Micro electrodes**
+	- Bio electric potential within a single cell
+	- smaller size with respect to cell sizes
+	- avoids injury
+	- doesn't change cell behaviour 
+	- size ranges from .05 to 10 $\mu$m
+	- **METAL TYPE**:-
+		- Solid metal/metal on glass surface
+		- stainless steel, platinum-iridium alloy, Tungsten, compound tungsten carbide
+- **skin surface**
+- **needle**
 - [ ] working of instrumentation amplifier DIAGRAM
 - [ ] Need for isolation
 - [ ] isolation amplifier DIAGRAM
@@ -97,7 +113,8 @@ $$
 	- b - corneal positive(inner retina)
 	- when light falls outer portion becomes positive and inner part of retina becomes negative
 - EOG:- position and movement of the eye | Electro Oculo Gram
-	- measure of variation 
+	- measure of variation of cornea and retina positions due to movement of eye
+	- indirect measure of standing potential in dark and after light rise
 - EGG:- Gastric activity | Electro Gastro Gram
 
 
