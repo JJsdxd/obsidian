@@ -26,7 +26,7 @@
 - [x] **ECG WORKING DIAGRAM**
 - [ ] Electromagnetic Blood Flow meter DIAGRAM and WORKING
 - [x] Cardiovascular System explain DIAGRAM 
-- [ ] Electroconduction System of the Heart
+- [x] Electroconduction System of the Heart
 - [ ] ECG RECORDING SYSTEM DIAGRAM
 - [x] ECG Lead Configuration
 - [x] ECG electro cardiography

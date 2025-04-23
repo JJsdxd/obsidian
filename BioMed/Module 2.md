@@ -20,9 +20,8 @@
 	AuxilliaryCircuits --> PreAmp
 	BridgeO/Pcircuit --> FrequencySelectiveFeedbackNetwork --> PowerAmp
 	```
-- [ ] Electromagnetic Blood Flow meter DIAGRAM and WORKING
 - [x] Cardiovascular System explain DIAGRAM 
-- [ ] Electroconduction System of the Heart
+- [x] Electroconduction System of the Heart
 - [ ] ECG RECORDING SYSTEM DIAGRAM
 - [ ] ECG Lead Configuration
 	- ECG machine uses wires with electrode attached to them called leads
@@ -50,15 +49,25 @@
 		- V1-4th intercostal space right sternal margin
 		- V2 - 4th intercostal space left sternal margin
 		- V3 - midway between V2 and V4
-		- V4- fifth intercoastal space 
+		- V4- fifth intercoastal space at mid clavicular line
+		- V5 - same level as V4 at anteriror axilliary line
+		- V6 - " at mid axialliary line
 - [x] ECG electro cardiography
 - [ ] analysis of ECG signal
+	- its quasi periodical , rhythmically repeating signal
+	- P- atrial contraction
+	-  R marks ending of atrial contraction and start of ventricular contraction
+	- QRS -repolarization of atria and depolarization of ventricles
+	- T - repolarization of ventricles
+	- PR - time taken from atria to AV node
+	- QRS - time taken from intro ventricular system and then to ventricular contraction
+- [x] Einthoven's triangle
+- [x] unipolar limb lead configuration with DIAGRAM
 - [ ] Measurement of blood pressure direct indirect relative
 - [ ] oscillometric ultrasonic noninvasive pressure measurement
 - [ ] Ultrasonic Blood flow meters
 - [ ] systole and diastole
-- [x] Einthoven's triangle
 - [ ] korotkoff sounds
 - [ ] doppler effect significance in blood parameter measurement
 - [ ] explain auscultatory method for measurement of blood pressure DIAGRAM
-- [ ] unipolar limb lead configuration with DIAGRAM
+- [ ] Electromagnetic Blood Flow meter DIAGRAM and WORKING
