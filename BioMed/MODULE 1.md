@@ -55,6 +55,10 @@ $$
 	F1,F2 - ""
 	
 - [ ] tissue electrode interface
+- electrode
+- sweat/electrolyte
+- epidermis
+- dermis and subcutaneous layers
 
 - [ ] electrical activity of a muscle
 - [ ] electrode theory
@@ -66,8 +70,13 @@ $$
 
 - [ ] significance of instrumentation amplifier 
 - [x] Half cell potential 
-- [ ] polarised depolarised cells
 - [ ] ECG, EEG, EMG, ERG, EOG, EGG  CONCEPT
+- ECG:- bioelectric potential measured from the heart's electrical activity
+- EEG:- potential from brain's electrical activity
+- EMG:- potential from muscle activity
+- ERG:- potential from retina of the eye
+- EOG:- position and movement of the eye
+- EGG:- Gastric activity | Electro Gastro Gram
 
 
 
