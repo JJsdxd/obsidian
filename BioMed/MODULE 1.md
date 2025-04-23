@@ -40,8 +40,22 @@ ranges from -100mv to -60mv
 	in heart the rate is 0.2m/s to 0.4m/s
 	
 - [ ] Nernst equation
-	It can be shown that a potential E exists between the 
+	It can be shown that a potential E exists between the inside and outside of a membrane based on the relative activity of the permeable ions in each of the solutions
+	This relation is between ionic concentration(activity) and electrode potential
+	**half cell potential** is the potential between the two solutions when there is no flow of ions across the membrane
+$$
+	N E =-(RT/nF)ln(C1F1/C2F2)
+$$
+	N E - Electric potential/ Nernst potential
+	R- Universal Gas Constant 8.71J/K
+	T - absolute temp
+	n - valence of the electrode material
+	F - Faraday Constant 96500C/(mol/valence)
+	C1,C2 - concentration of ion1 on either side of the membrane
+	F1,F2 - ""
+	
 - [ ] tissue electrode interface
+
 - [ ] electrical activity of a muscle
 - [ ] electrode theory
 - [ ] working of instrumentation amplifier DIAGRAM
@@ -51,7 +65,7 @@ ranges from -100mv to -60mv
 - [ ] basic structure of needle electrode
 
 - [ ] significance of instrumentation amplifier 
-- [ ] Half cell potential 
+- [x] Half cell potential 
 - [ ] polarised depolarised cells
 - [ ] ECG, EEG, EMG, ERG, EOG, EGG  CONCEPT
 
