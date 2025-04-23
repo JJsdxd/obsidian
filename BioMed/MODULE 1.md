@@ -87,8 +87,17 @@ $$
 	- Delta 0.1-4Hz deep sleep, dreamless sleep, non-REM sleep, unconscious
 	- SCALP EEG NON INVASIVE
 - EMG:- potential from muscle activity | Electro Musculo Gram
+	- needle electrodes
+	- flexing and relaxing
+
 - ERG:- potential from retina of the eye | Electro Retino Gram
+	- response to stimulus
+	- two waves 
+	- a - first large negative component (outter  retina)
+	- b - corneal positive(inner retina)
+	- when light falls outer portion becomes positive and inner part of retina becomes negative
 - EOG:- position and movement of the eye | Electro Oculo Gram
+	- measure of variation 
 - EGG:- Gastric activity | Electro Gastro Gram
 
 
