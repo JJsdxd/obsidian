@@ -23,9 +23,9 @@
 - [ ] doppler effect significance in blood parameter measurement
 - [ ] explain auscultatory method for measurement of blood pressure DIAGRAM
 - [ ] unipolar limb lead configuration with DIAGRAM
-- [ ] **ECG WORKING DIAGRAM**
+- [x] **ECG WORKING DIAGRAM**
 - [ ] Electromagnetic Blood Flow meter DIAGRAM and WORKING
-- [ ] Cardiovascular System explain DIAGRAM 
+- [x] Cardiovascular System explain DIAGRAM 
 - [ ] Electroconduction System of the Heart
 - [ ] ECG RECORDING SYSTEM DIAGRAM
 - [ ] ECG Lead Configuration

@@ -25,13 +25,19 @@
 - [ ] Electroconduction System of the Heart
 - [ ] ECG RECORDING SYSTEM DIAGRAM
 - [ ] ECG Lead Configuration
-- [ ] ECG electro cardiography
+	- ECG machine uses wires with electrode attached to them called leads
+	- These leads measure difference in electric potential between
+	- they can be bipolar - two points on the body
+	- unipolar one point and a virtual zero reference
+	- Standard Limb Leads or Bipolar / Eindhoven Leads I II III
+		- The standard Limb Leads are used 
+- [x] ECG electro cardiography
 - [ ] analysis of ECG signal
 - [ ] Measurement of blood pressure direct indirect relative
 - [ ] oscillometric ultrasonic noninvasive pressure measurement
 - [ ] Ultrasonic Blood flow meters
 - [ ] systole and diastole
-- [ ] Einthoven's triangle
+- [x] Einthoven's triangle
 - [ ] korotkoff sounds
 - [ ] doppler effect significance in blood parameter measurement
 - [ ] explain auscultatory method for measurement of blood pressure DIAGRAM
