@@ -43,4 +43,30 @@
 - [ ] Physiology of Respiratory System DIAGRAM
 - [ ] Working Principle of Spirometer DIAGRAM
 - [ ] physiology of Human Nervous system DIAGRAM
-- [ ] Placement 
+- [ ] Placement of EEG electrode DIAGRAM
+- [ ] Brain Waves and when they occur
+- [ ] **Respiratory Parameters DIAGRAM** AND MEASUREMENT
+- [ ] Neuron Membrane Potential DIAGRAM
+----
+**MODULE 4**
+- [ ] Applications of Telemetry in Medicine
+- [ ] Working of PH meter
+- [ ] Pacemakers WORKING DIAGRAM
+- [ ] Cardiac Defibrillator WORKING DIAGRAM
+- [ ] Spectrophotometer WORKING DIAGRAM
+- [ ] Dialyzer WORKING DIAGRAM **TYPES**
+- [ ] Diathermy significance
+- [ ] Single Channel Telemetry System WORKING DIAGRAM
+- [ ] Flame Photometer WORKING DIAGRAM
+- [ ] PACEMAKER atrio synchronous WORKING DIAGRAM
+- [ ] AC defibrillator WORKING DIAGRAM
+- ----
+**MODULE 5**
+- [ ] A Scan PRINCIPLE DIAGRAM
+- [ ] NMR PRINCIPLE DIAGRAM BASIC COMPONENTS
+- [ ] Physiological Effects of Current on Human Body DIAGRAM
+- [ ] XRAY Xray machine WORKING DIAGRAM APPLICATIONS
+- [ ] Fluoroscopy in medical imaging 
+- [ ] CT number
+- [ ] X-RAY imaging system BLOCK DIAGRAM WORKING 
+- [ ] Ultrasonic Imaging 
