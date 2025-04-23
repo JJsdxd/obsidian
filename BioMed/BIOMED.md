@@ -18,11 +18,11 @@
 ------
 **MODULE 2**
 - [ ] systole and diastole
-- [ ] Einthoven's triangle
+- [x] Einthoven's triangle
 - [ ] korotkoff sounds
 - [ ] doppler effect significance in blood parameter measurement
 - [ ] explain auscultatory method for measurement of blood pressure DIAGRAM
-- [ ] unipolar limb lead configuration with DIAGRAM
+- [x] unipolar limb lead configuration with DIAGRAM
 - [x] **ECG WORKING DIAGRAM**
 - [ ] Electromagnetic Blood Flow meter DIAGRAM and WORKING
 - [x] Cardiovascular System explain DIAGRAM 

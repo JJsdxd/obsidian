@@ -41,6 +41,16 @@
 		- The three limbs electrodes form a triangle Eindhoven's Equilateral Triangle
 		- Einthoven said that at any point in time of the cardiac cycle the electrical axis of the heart can be represented as a two dimensional vector
 		- the sides of triangle represent the individual Lead readings and their algebraic sum of two is equal to the third and their vector sum is zero
+	- Augmented limb leads
+		- avR right arm, aVL Left arm, aVF LEFT FOOT
+		- each lead is recorded in reference to the other two electrodes conjoined
+		- the other leads are connected to positive and are called averaging electrodes and the resistances connected are called averaging resistances
+	-Precordial Leads
+		-second type of unipolar leads uses 6
+		- V1-4th intercostal space right sternal margin
+		- V2 - 4th intercostal space left sternal margin
+		- V3 - midway between V2 and V4
+		- V4- fifth intercoastal space 
 - [x] ECG electro cardiography
 - [ ] analysis of ECG signal
 - [ ] Measurement of blood pressure direct indirect relative
