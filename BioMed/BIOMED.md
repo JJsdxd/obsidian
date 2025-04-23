@@ -28,9 +28,9 @@
 - [x] Cardiovascular System explain DIAGRAM 
 - [ ] Electroconduction System of the Heart
 - [ ] ECG RECORDING SYSTEM DIAGRAM
-- [ ] ECG Lead Configuration
-- [ ] ECG electro cardiography
-- [ ] analysis of ECG signal
+- [x] ECG Lead Configuration
+- [x] ECG electro cardiography
+- [x] analysis of ECG signal
 - [ ] Measurement of blood pressure direct indirect relative
 - [ ] oscillometric ultrasonic noninvasive pressure measurement
 - [ ] Ultrasonic Blood flow meters

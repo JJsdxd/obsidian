@@ -21,7 +21,7 @@
 	BridgeO/Pcircuit --> FrequencySelectiveFeedbackNetwork --> PowerAmp
 	```
 - [ ] Electromagnetic Blood Flow meter DIAGRAM and WORKING
-- [ ] Cardiovascular System explain DIAGRAM 
+- [x] Cardiovascular System explain DIAGRAM 
 - [ ] Electroconduction System of the Heart
 - [ ] ECG RECORDING SYSTEM DIAGRAM
 - [ ] ECG Lead Configuration
@@ -30,7 +30,17 @@
 	- they can be bipolar - two points on the body
 	- unipolar one point and a virtual zero reference
 	- Standard Limb Leads or Bipolar / Eindhoven Leads I II III
-		- The standard Limb Leads are used 
+		- The standard Limb Leads are used to display a graph of potential difference recorded between two limbs at a time, In these leads , one limb carries the positive electrode and the other limb negative
+		- the three electrodes form Einthoven's Equilateral Triangle at Right Arm Left Arm and Left Leg
+
+| LEAD | Positive Electrode | Negative Electrode |
+| ---- | ------------------ | ------------------ |
+| I    | LA                 | RA                 |
+| II   | LL                 | RA                 |
+| III  | LL                 | LA                 |
+		- The three limbs electrodes form a triangle Eindhoven's Equilateral Triangle
+		- Einthoven said that at any point in time of the cardiac cycle the electrical axis of the heart can be represented as a two dimensional vector
+		- the sides of triangle represent the individual Lead readings and their algebraic sum of two is equal to the third and their vector sum is zero
 - [x] ECG electro cardiography
 - [ ] analysis of ECG signal
 - [ ] Measurement of blood pressure direct indirect relative
