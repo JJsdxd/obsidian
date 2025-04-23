@@ -141,9 +141,25 @@ $$
 	- indirect measure of standing potential in dark and after light rise
 - EGG:- Gastric activity | Electro Gastro Gram
 
-
-- [ ] significance of instrumentation amplifier 
+- [ ] Biopotential amplifier
+- 
+- [x] significance of instrumentation amplifier 
 - [ ] working of instrumentation amplifier DIAGRAM
+- is a biopotential amplifier 
+- designed to overcome 
+	- limited input impedance resulting in loading of certain sensors
+	- CMRR of 60dB is not enough for modern applications
+- Extremely High input impedance 
+- very high CMRR
+- low power consumption
+- available in single IC
+- high slew rate
+- low bias and offset currents
+
+- uses 3 OP AMPS and 7 resistors
+- 4 are to set gain for A3 if equal to 1
+- R$_g$ controls gain
+- R $_v_a_r$ 
 - [ ] Need for isolation
 - [ ] isolation amplifier DIAGRAM
 - [ ] Man instrument system DIAGRAM
