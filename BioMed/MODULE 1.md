@@ -76,7 +76,30 @@ $$
 	- **METAL TYPE**:-
 		- Solid metal/metal on glass surface
 		- stainless steel, platinum-iridium alloy, Tungsten, compound tungsten carbide
-- **skin surface**
+		- insulated upto it's tip
+		- produced using electrolytic etching
+		- larger metallic support shaft
+	- **MIcropipette** :-
+		- glass within lumen filled with electrolyte
+		- prepared from glass capillaries
+		- tip drawn out to desired size 1$\mu$m
+		- a capillary tube is heated to soften and rapidly stretched
+		- electrolyte is usually 3M KCL
+		- a metal electrode is then sealed into the pipette
+
+- **skin surface**:-
+	- placed in contact with subject's skin
+	- **immersion electrode**:-
+		- bucket of saline water
+	- **Suction type**:-
+		- metal plate which no longer needs straps
+		- lead contact to a metal cylinder with rubber bulb on the other end and electrolytic gel on the contact end the rubber bulb is squeezed and then the assembly is placed on desired area then the suction holds in it place
+		- low contact area large size
+	- **metal plate**:-
+		- metallic conductor in contact with skin
+		- electrolytic pad/gel is used to establish contact
+	- **floating electrodes**
+	- 
 - **needle**
 - [ ] working of instrumentation amplifier DIAGRAM
 - [ ] Need for isolation
