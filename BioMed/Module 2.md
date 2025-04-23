@@ -71,3 +71,14 @@
 - [ ] doppler effect significance in blood parameter measurement
 - [ ] explain auscultatory method for measurement of blood pressure DIAGRAM
 - [ ] Electromagnetic Blood Flow meter DIAGRAM and WORKING
+	- measure instantaneous pulsatile blood flow 
+	- based on electromagnetic induction
+	- voltage induced in a conductor in a moving magnetic field is proportional to the velocity of conductor
+	- blood is the moving conductor
+	- permanent /electro magnet around the blood vessel 
+	- magnetic field perpendicular to the flow of blood
+	- the potential build up in the blood is measured by the sensing elements 
+	- magnitude of voltage picked up is directly proportional to velocity of blood
+	- e = CHVd Q=Va   e = CHdQ/a
+	- Types
+		- sine wave:-  gated amplifier used
