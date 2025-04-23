@@ -181,17 +181,27 @@ $$
 - Isolation amplifier are used to provide protection against leakage currents
 - they break ohmic continuity between input and output electric signals
 - uses separate Voltage sources and Grounds on either side of the isolation barrier
+- patient protection
+- sensitive instrument protection pacemakers, electrocardiographs
 - [ ] isolation amplifier DIAGRAM
 	- Transformer Isolation
 		- uses a frequency/pulse width modulated carrier signal to carry the signal
 		- it uses internal dc-to-dc converter with 20KHz oscillator, transformer, rectifier, and filter to supply isolated power
+		- most popular
+		- medium performance and cost
 	- Optical isolation 
 		- uses neither the hospital line for voltage/ground 
 		- has a separate battery system
 		- The signal is converted to light and transmitted a photo transistor on the output side converts the light back to original signal retaining frequency amplitude and linearity
 		- no need of modulation/demodulation
+		- cheapest
+		- lowest isolation
 	- Capacitive Isolation
-		- digitally encode
+		- digitally encodes signal frequency modulates and transmits over a differential capacitive barrier
+		- seperate power supply is needed on both sides
+		- upto 70KHZ
+		- best gain stability and linearity
+		- most expensive
 
 - [ ] Man instrument system DIAGRAM
 ```mermaid
