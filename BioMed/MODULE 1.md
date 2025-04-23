@@ -159,7 +159,9 @@ $$
 - uses 3 OP AMPS and 7 resistors
 - 4 are to set gain for A3 if equal to 1
 - R$_g$ controls gain
-- R $_v_a_r$ 
+- R var to balance out common mode voltage in A3
+- A1 and A2 act as buffer amps
+- 
 - [ ] Need for isolation
 - [ ] isolation amplifier DIAGRAM
 - [ ] Man instrument system DIAGRAM
