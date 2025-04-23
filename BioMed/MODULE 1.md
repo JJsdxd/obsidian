@@ -153,6 +153,7 @@ $$
 	- highly sensitive to frequency
 	- high gain 1000^
 	- most are differential
+
 - [x] significance of instrumentation amplifier 
 - [ ] working of instrumentation amplifier DIAGRAM
 - is a biopotential amplifier 
@@ -172,11 +173,17 @@ $$
 - R var to balance out common mode voltage in A3
 - A1 and A2 act as buffer amps
 $$
-V$_o$/() = 
+Vo/V1-V2 =1+2/a 
 $$
-- 
+- a=Rg/R
+
 - [ ] Need for isolation
+- Isolation amplifier are used to provide protection against leakage currents
+- they break ohmic continuity between input and output electric signals
+- uses separate Voltage sources and Grounds on either side of the isolation barrier
+- 
 - [ ] isolation amplifier DIAGRAM
+
 - [ ] Man instrument system DIAGRAM
 ```mermaid
 flowchart LR

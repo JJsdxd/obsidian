@@ -1,20 +1,20 @@
 **MODULE 1**
 
-- [ ] bioelectric potential 
-- [ ] Nernst equation
-- [ ] tissue electrode interface
+- [x] bioelectric potential 
+- [x] Nernst equation
+- [x] tissue electrode interface
 - [ ] electrical activity of a muscle
 - [ ] electrode theory
-- [ ] working of instrumentation amplifier DIAGRAM
-- [ ] Need for isolation
-- [ ] isolation amplifier DIAGRAM
-- [ ] Man instrument system DIAGRAM
-- [ ] basic structure of needle electrode
-- [ ] polarisation and depolarisation
-- [ ] significance of instrumentation amplifier 
-- [ ] Half cell potential 
-- [ ] polarised depolarised cells
-- [ ] ECG, EEG, EMG, ERG, EOG, EGG  CONCEPT
+- [x] working of instrumentation amplifier DIAGRAM
+- [x] Need for isolation
+- [x] isolation amplifier DIAGRAM
+- [x] Man instrument system DIAGRAM
+- [x] basic structure of needle electrode
+- [x] polarisation and depolarisation
+- [x] significance of instrumentation amplifier 
+- [x] Half cell potential 
+- [x] polarised depolarised cells
+- [x] ECG, EEG, EMG, ERG, EOG, EGG  CONCEPT
 ------
 **MODULE 2**
 - [ ] systole and diastole
