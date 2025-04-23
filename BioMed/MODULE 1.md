@@ -99,15 +99,16 @@ $$
 		- metallic conductor in contact with skin
 		- electrolytic pad/gel is used to establish contact
 	- **floating electrodes**
-	- 
+		- conductive paste to hold contact
+		- double sided adhesive tape ring
 - **needle**
-- [ ] working of instrumentation amplifier DIAGRAM
-- [ ] Need for isolation
-- [ ] isolation amplifier DIAGRAM
-- [ ] Man instrument system DIAGRAM
-- [ ] basic structure of needle electrode
+	- penetrates skin to get readings
+	- unipolar - single wire in needle
+	- bi polar - two wire inside
+	- coaxial -small gauge hypodermic needle modified to have wires running through it's lumen and insulated using resin, tip is filed to reveal the wire 
+	- lead wire into needle insulating coating sharp metallic point
 
-- [ ] significance of instrumentation amplifier 
+- [x] basic structure of needle electrode
 - [x] Half cell potential 
 - [x] ECG, EEG, EMG, ERG, EOG, EGG  CONCEPT
 - ECG:- bioelectric potential measured from the heart's electrical activity | electrocardiogram
@@ -141,8 +142,11 @@ $$
 - EGG:- Gastric activity | Electro Gastro Gram
 
 
-
-
+- [ ] significance of instrumentation amplifier 
+- [ ] working of instrumentation amplifier DIAGRAM
+- [ ] Need for isolation
+- [ ] isolation amplifier DIAGRAM
+- [ ] Man instrument system DIAGRAM
 
 
 
