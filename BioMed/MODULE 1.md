@@ -147,6 +147,15 @@ $$
 - [ ] Need for isolation
 - [ ] isolation amplifier DIAGRAM
 - [ ] Man instrument system DIAGRAM
+- ENERGY SOURCE - provides required power for operation of various components inside the Intrument
+- Measurand - the values to be measured/subject/human to take as readings
+- Sensors/Transducers - converts bioelectric potential to electronic current /vice versa to achieve reading of biological factors/induce actions
+- calibration - to rectify innate error in sensors 
+- Signal Conditioning
+	- Pre Amplifier - to amplify the generated signals that are in the range of mV to usable ranges
+	- signal Processor - to make required changes to the amplified signal such as scaling zooming to extract maximum data for user
+- Control System - User interface to decide and manipulate the way the data is read/interpretted and displayer
+- OUTPUT - can be displays, alarms, recorders, transmitters, storage units etc 
 
 
 
