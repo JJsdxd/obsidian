@@ -17,11 +17,11 @@
 - [x] ECG, EEG, EMG, ERG, EOG, EGG  CONCEPT
 ------
 **MODULE 2**
-- [ ] systole and diastole
+- [x] systole and diastole
 - [x] Einthoven's triangle
-- [ ] korotkoff sounds
+- [x] korotkoff sounds
 - [ ] doppler effect significance in blood parameter measurement
-- [ ] explain auscultatory method for measurement of blood pressure DIAGRAM
+- [x] explain auscultatory method for measurement of blood pressure DIAGRAM
 - [x] unipolar limb lead configuration with DIAGRAM
 - [x] **ECG WORKING DIAGRAM**
 - [ ] Electromagnetic Blood Flow meter DIAGRAM and WORKING
@@ -31,7 +31,7 @@
 - [x] ECG Lead Configuration
 - [x] ECG electro cardiography
 - [x] analysis of ECG signal
-- [ ] Measurement of blood pressure direct indirect relative
+- [x] Measurement of blood pressure direct indirect relative
 - [ ] oscillometric ultrasonic noninvasive pressure measurement
 - [ ] Ultrasonic Blood flow meters
 ----

@@ -64,9 +64,23 @@
 - [x] Einthoven's triangle
 - [x] unipolar limb lead configuration with DIAGRAM
 - [ ] Measurement of blood pressure direct indirect relative
+	- Indirect
+		- simple equipment
+		- cannot measure when pressure very low
+		- Auscultory:-
+			- uses aneroid sphygometer with a stethescope
+			- a cuff is placed on your arm and inflated with a pump till circulation is cut off
+			- slowly deflates the cuff while listening for blood sounds using stethescope
+			- first sound of blood refers to systolic pressure kokorotkoff sounds
+			- once it fades is the diastole
+			- pressure cuff, mercury manometer, valve, air pump on brachial artery, listen on radial artery branching point
+		- oscillometric 
+			- occuluding cuff deflating results in artery walls vibrating due to turbulent blood flow through partially occluded arteries which can be detected via the transducer monitoring cuff pressure, as pressure continues to decrese the vibrations increase to a maximum point and then 
 - [ ] oscillometric ultrasonic noninvasive pressure measurement
 - [ ] Ultrasonic Blood flow meters
 - [ ] systole and diastole
+	- systole :- highest pressure on the vessel walls when the heart is beating and pumping blood through the body
+	- diastole:- the lowest pressure on walls when heart is resting/in between beats
 - [ ] korotkoff sounds
 - [ ] doppler effect significance in blood parameter measurement
 - [ ] explain auscultatory method for measurement of blood pressure DIAGRAM
@@ -81,4 +95,5 @@
 	- magnitude of voltage picked up is directly proportional to velocity of blood
 	- e = CHVd Q=Va   e = CHdQ/a
 	- Types
-		- sine wave:-  gated amplifier used
+		- sine wave:-  gated amplifier used to remove transformer voltage 
+		- voltage is 90$\degree$ out of phase with input sine wave
