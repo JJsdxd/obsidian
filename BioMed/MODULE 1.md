@@ -55,104 +55,104 @@ $$
 	F1,F2 - ""
 	
 - [ ] tissue electrode interface
-- electrode
-- sweat/electrolyte
-- epidermis
-- dermis and subcutaneous layers
+	- electrode
+	- sweat/electrolyte
+	- epidermis
+	- dermis and subcutaneous layers
 
 - [ ] electrical activity of a muscle
 - [ ] electrode theory
-- biopotential electrodes
-	- recording electrodes :- converts ionic current in the body to electronic current in the circuit Non polarizable
-	- stimulating electrodes:- converts electronic current in circuit to ionic current in the body/cells Polarizable
-- Polarizable electrodes does not allow charge pass through when a current is applied platinum
-- non-Polarizable electrodes that allow charge pass through even with current applied AgCl
-- **Micro electrodes**
-	- Bio electric potential within a single cell
-	- smaller size with respect to cell sizes
-	- avoids injury
-	- doesn't change cell behaviour 
-	- size ranges from .05 to 10 $\mu$m
-	- **METAL TYPE**:-
-		- Solid metal/metal on glass surface
-		- stainless steel, platinum-iridium alloy, Tungsten, compound tungsten carbide
-		- insulated upto it's tip
-		- produced using electrolytic etching
-		- larger metallic support shaft
-	- **MIcropipette** :-
-		- glass within lumen filled with electrolyte
-		- prepared from glass capillaries
-		- tip drawn out to desired size 1$\mu$m
-		- a capillary tube is heated to soften and rapidly stretched
-		- electrolyte is usually 3M KCL
-		- a metal electrode is then sealed into the pipette
-
-- **skin surface**:-
-	- placed in contact with subject's skin
-	- **immersion electrode**:-
-		- bucket of saline water
-	- **Suction type**:-
-		- metal plate which no longer needs straps
-		- lead contact to a metal cylinder with rubber bulb on the other end and electrolytic gel on the contact end the rubber bulb is squeezed and then the assembly is placed on desired area then the suction holds in it place
-		- low contact area large size
-	- **metal plate**:-
-		- metallic conductor in contact with skin
-		- electrolytic pad/gel is used to establish contact
-	- **floating electrodes**
-		- conductive paste to hold contact
-		- double sided adhesive tape ring
-- **needle**
-	- penetrates skin to get readings
-	- unipolar - single wire in needle
-	- bi polar - two wire inside
-	- coaxial -small gauge hypodermic needle modified to have wires running through it's lumen and insulated using resin, tip is filed to reveal the wire 
-	- lead wire into needle insulating coating sharp metallic point
+	- biopotential electrodes
+		- recording electrodes :- converts ionic current in the body to electronic current in the circuit Non polarizable
+		- stimulating electrodes:- converts electronic current in circuit to ionic current in the body/cells Polarizable
+	- Polarizable electrodes does not allow charge pass through when a current is applied platinum
+	- non-Polarizable electrodes that allow charge pass through even with current applied AgCl
+	- **Micro electrodes**
+		- Bio electric potential within a single cell
+		- smaller size with respect to cell sizes
+		- avoids injury
+		- doesn't change cell behaviour 
+		- size ranges from .05 to 10 $\mu$m
+		- **METAL TYPE**:-
+			- Solid metal/metal on glass surface
+			- stainless steel, platinum-iridium alloy, Tungsten, compound tungsten carbide
+			- insulated upto it's tip
+			- produced using electrolytic etching
+			- larger metallic support shaft
+		- **MIcropipette** :-
+			- glass within lumen filled with electrolyte
+			- prepared from glass capillaries
+			- tip drawn out to desired size 1$\mu$m
+			- a capillary tube is heated to soften and rapidly stretched
+			- electrolyte is usually 3M KCL
+			- a metal electrode is then sealed into the pipette
+	
+	- **skin surface**:-
+		- placed in contact with subject's skin
+		- **immersion electrode**:-
+			- bucket of saline water
+		- **Suction type**:-
+			- metal plate which no longer needs straps
+			- lead contact to a metal cylinder with rubber bulb on the other end and electrolytic gel on the contact end the rubber bulb is squeezed and then the assembly is placed on desired area then the suction holds in it place
+			- low contact area large size
+		- **metal plate**:-
+			- metallic conductor in contact with skin
+			- electrolytic pad/gel is used to establish contact
+		- **floating electrodes**
+			- conductive paste to hold contact
+			- double sided adhesive tape ring
+	- **needle**
+		- penetrates skin to get readings
+		- unipolar - single wire in needle
+		- bi polar - two wire inside
+		- coaxial -small gauge hypodermic needle modified to have wires running through it's lumen and insulated using resin, tip is filed to reveal the wire 
+		- lead wire into needle insulating coating sharp metallic point
 
 - [x] basic structure of needle electrode
 - [x] Half cell potential 
 - [x] ECG, EEG, EMG, ERG, EOG, EGG  CONCEPT
-- ECG:- bioelectric potential measured from the heart's electrical activity | electrocardiogram
-	- two upper two lower chambers the atria and ventricle pairs act together in sync
-	- cardiovascular system left atria gets oxygenated blood -> left ventricle -> rest of body via aorta , Right atria gets deoxygenated blood from body -> right ventricle -> lungs
-	- They must work in proper time relationship to ensure proper function
-	- cardiac excitation :- action potential initiates at top right atrium known as sinoartirial node (SA) ->activates both atria -> terminates at atrioventricular node (AVN) special fibers (delay line) times the signal properly for the ventricles and after the delay line it spreads through Purkinje fibers for activating both ventricles finally terminates at the tip /apex of the heart 
-	- [[Module 2]]
-- EEG:- potential from brain's electrical activity | Electrp encephalo gram
-	- frequency range from 1-30Hz
-	- amplitude range 20-100$\mu$V
-	- Gamma 30-100HZ motor function, problem solving,concentration
-	- Beta 12-30Hz normal walking state ,concentration, five senses, focus
-	- Alpha 7.5-12Hz learning, Relaxed, Creative, light meditation, conscious
-	- Theta 4-7.5Hz deep meditation, recall, fantasy, Light sleep
-	- Delta 0.1-4Hz deep sleep, dreamless sleep, non-REM sleep, unconscious
-	- SCALP EEG NON INVASIVE
-- EMG:- potential from muscle activity | Electro Musculo Gram
-	- needle electrodes
-	- flexing and relaxing
-
-- ERG:- potential from retina of the eye | Electro Retino Gram
-	- response to stimulus
-	- two waves 
-	- a - first large negative component (outter  retina)
-	- b - corneal positive(inner retina)
-	- when light falls outer portion becomes positive and inner part of retina becomes negative
-- EOG:- position and movement of the eye | Electro Oculo Gram
-	- measure of variation of cornea and retina positions due to movement of eye
-	- indirect measure of standing potential in dark and after light rise
-- EGG:- Gastric activity | Electro Gastro Gram
+	- ECG:- bioelectric potential measured from the heart's electrical activity | electrocardiogram
+		- two upper two lower chambers the atria and ventricle pairs act together in sync
+		- cardiovascular system left atria gets oxygenated blood -> left ventricle -> rest of body via aorta , Right atria gets deoxygenated blood from body -> right ventricle -> lungs
+		- They must work in proper time relationship to ensure proper function
+		- cardiac excitation :- action potential initiates at top right atrium known as sinoartirial node (SA) ->activates both atria -> terminates at atrioventricular node (AVN) special fibers (delay line) times the signal properly for the ventricles and after the delay line it spreads through Purkinje fibers for activating both ventricles finally terminates at the tip /apex of the heart 
+		- [[Module 2]]
+	- EEG:- potential from brain's electrical activity | Electrp encephalo gram
+		- frequency range from 1-30Hz
+		- amplitude range 20-100$\mu$V
+		- Gamma 30-100HZ motor function, problem solving,concentration
+		- Beta 12-30Hz normal walking state ,concentration, five senses, focus
+		- Alpha 7.5-12Hz learning, Relaxed, Creative, light meditation, conscious
+		- Theta 4-7.5Hz deep meditation, recall, fantasy, Light sleep
+		- Delta 0.1-4Hz deep sleep, dreamless sleep, non-REM sleep, unconscious
+		- SCALP EEG NON INVASIVE
+	- EMG:- potential from muscle activity | Electro Musculo Gram
+		- needle electrodes
+		- flexing and relaxing
+	
+	- ERG:- potential from retina of the eye | Electro Retino Gram
+		- response to stimulus
+		- two waves 
+		- a - first large negative component (outter  retina)
+		- b - corneal positive(inner retina)
+		- when light falls outer portion becomes positive and inner part of retina becomes negative
+	- EOG:- position and movement of the eye | Electro Oculo Gram
+		- measure of variation of cornea and retina positions due to movement of eye
+		- indirect measure of standing potential in dark and after light rise
+	- EGG:- Gastric activity | Electro Gastro Gram
 
 - [ ] Biopotential amplifier
-- Used to amplify biopotential generated by body at low amplitudes and high source resistance
-- increase signal strength while maintaining fidelity
-- amplify voltage power and current
-- to isolate load from source current gain
-- charcteristics:-
-	- high input impedance 
-	- high cmrr
-	- low output impedance
-	- highly sensitive to frequency
-	- high gain 1000^
-	- most are differential
+	- Used to amplify biopotential generated by body at low amplitudes and high source resistance
+	- increase signal strength while maintaining fidelity
+	- amplify voltage power and current
+	- to isolate load from source current gain
+	- charcteristics:-
+		- high input impedance 
+		- high cmrr
+		- low output impedance
+		- highly sensitive to frequency
+		- high gain 1000^
+		- most are differential
 
 - [x] significance of instrumentation amplifier 
 - [ ] working of instrumentation amplifier DIAGRAM
@@ -181,8 +181,17 @@ $$
 - Isolation amplifier are used to provide protection against leakage currents
 - they break ohmic continuity between input and output electric signals
 - uses separate Voltage sources and Grounds on either side of the isolation barrier
-- 
 - [ ] isolation amplifier DIAGRAM
+	- Transformer Isolation
+		- uses a frequency/pulse width modulated carrier signal to carry the signal
+		- it uses internal dc-to-dc converter with 20KHz oscillator, transformer, rectifier, and filter to supply isolated power
+	- Optical isolation 
+		- uses neither the hospital line for voltage/ground 
+		- has a separate battery system
+		- The signal is converted to light and transmitted a photo transistor on the output side converts the light back to original signal retaining frequency amplitude and linearity
+		- no need of modulation/demodulation
+	- Capacitive Isolation
+		- digitally encode
 
 - [ ] Man instrument system DIAGRAM
 ```mermaid
