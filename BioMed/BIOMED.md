@@ -14,7 +14,7 @@
 - [ ] significance of instrumentation amplifier 
 - [ ] Half cell potential 
 - [ ] polarised depolarised cells
-- [ ] ECG,EEG,EMG, ERG, EOG, EGG  CONCEPT
+- [ ] ECG, EEG, EMG, ERG, EOG, EGG  CONCEPT
 ------
 **MODULE 2**
 - [ ] systole and diastole
