@@ -87,8 +87,19 @@
 			- The system initiates bleed off at preset rate and the doppler shift is measured and using rapid changes in the doppler shift the values of systolic and diastolic pressure are procured by the control system
 - [x] oscillometric ultrasonic noninvasive pressure measurement
 - [ ] Ultrasonic Blood flow meters
-	- doppler shift 
+	- doppler shift
+		- analysis of echo signals 
+		- doppler effect change in frequency indicates direction and size of flow velocity
+		- electrically excited peizo electric at 5MHz to transmitter 
+		- the doppler shifted component scattered from blood cells to reciever
+		- then to RF amp and to detector
+		- low pass filter then to audio amp
+		- zero crossing detector again low pass filter to make output proportional to blood velocity
 	- transit time
+		- Transit Time ultrasonic Flow Meters use transit time difference in transmitting a data across blood stream upstream and down stream to calculate blood flow velocity
+		- t=distance/conduction velocity
+		- t=D/c+ucos$\theta$
+		- t- transit time D-distance , c- speed of light, u blood flow velocity
 - [ ] systole and diastole
 	- systole :- highest pressure on the vessel walls when the heart is beating and pumping blood through the body
 	- diastole:- the lowest pressure on walls when heart is resting/in between beats
