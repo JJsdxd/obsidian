@@ -166,6 +166,10 @@ $$
 - [ ] isolation amplifier DIAGRAM
 - [ ] Man instrument system DIAGRAM
 ```mermaid
+flowchart LR
+ENERGY_SOURCE["'Energy Source'"]  --> Measurand["Measurand"]
+Measurand --> Sensors/Transducers --> 
+ENERGY_SOURCE["'Energy Source'"] --> Sensors/Transducers
 ```
 - ENERGY SOURCE - provides required power for operation of various components inside the Intrument
 - Measurand - the values to be measured/subject/human to take as readings
