@@ -19,7 +19,13 @@ ranges from -100mv to -60mv
 	This is considered depolarised state
 **Repolarization**
 	once the inrush of Na+ ions ends due to the voltage gradient created the voltage gated Na channels close and the membrane returns to original state
-	then an active process called sodium pumping transports Na+ ions to the outside of the cell to regain original state
+	then an active process called sodium pumping transports Na+ ions to the outside of the cell to regain original state of the cell
+**Action Potential**
+	The potential of a particular cell during which it is depolarizing and repolarizing
+	The time period varies with type of cell
+	all or nothing any stimulus below the threshold -55mV does not cause any depolarization/action and any stimulus above will trigger it
+
+	stays at -70mV upon stimulus moves to
 	
 - [ ] Nernst equation
 - [ ] tissue electrode interface
