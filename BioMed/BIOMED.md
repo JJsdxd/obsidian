@@ -24,7 +24,7 @@
 - [x] explain auscultatory method for measurement of blood pressure DIAGRAM
 - [x] unipolar limb lead configuration with DIAGRAM
 - [x] **ECG WORKING DIAGRAM**
-- [ ] Electromagnetic Blood Flow meter DIAGRAM and WORKING
+- [x] Electromagnetic Blood Flow meter DIAGRAM and WORKING
 - [x] Cardiovascular System explain DIAGRAM 
 - [x] Electroconduction System of the Heart
 - [ ] ECG RECORDING SYSTEM DIAGRAM
@@ -32,7 +32,7 @@
 - [x] ECG electro cardiography
 - [x] analysis of ECG signal
 - [x] Measurement of blood pressure direct indirect relative
-- [ ] oscillometric ultrasonic noninvasive pressure measurement
+- [x] oscillometric ultrasonic noninvasive pressure measurement
 - [ ] Ultrasonic Blood flow meters
 ----
 **MODULE 3**

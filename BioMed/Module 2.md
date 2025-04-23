@@ -75,14 +75,21 @@
 			- once it fades is the diastole
 			- pressure cuff, mercury manometer, valve, air pump on brachial artery, listen on radial artery branching point
 		- oscillometric 
-			- occuluding cuff deflating results in artery walls vibrating due to turbulent blood flow through partially occluded arteries which can be detected via the transducer monitoring cuff pressure, as pressure continues to decrese the vibrations increase to a maximum point and then 
-- [ ] oscillometric ultrasonic noninvasive pressure measurement
+			- occuluding cuff deflating results in artery walls vibrating due to turbulent blood flow through partially occluded arteries which can be detected via the transducer monitoring cuff pressure, as pressure continues to decrease the vibrations increase to a maximum point and then gradually fall off until full deflation
+			- cuff pressure at maximum vibrations is mean arterial pressure
+			- rapid vibration increase is diastolic (must be above maximum vibrations)
+			- empirically proven not yet explained theoretically
+			- proprietary algorithm based
+		- Ultrasonic pressure measurement
+		- 
+- [x] oscillometric ultrasonic noninvasive pressure measurement
 - [ ] Ultrasonic Blood flow meters
 - [ ] systole and diastole
 	- systole :- highest pressure on the vessel walls when the heart is beating and pumping blood through the body
 	- diastole:- the lowest pressure on walls when heart is resting/in between beats
-- [ ] korotkoff sounds
+- [x] korotkoff sounds
 - [ ] doppler effect significance in blood parameter measurement
+	- Ultrasonic systems for pressure as well as blood flow measurement are 
 - [ ] explain auscultatory method for measurement of blood pressure DIAGRAM
 - [ ] Electromagnetic Blood Flow meter DIAGRAM and WORKING
 	- measure instantaneous pulsatile blood flow 
