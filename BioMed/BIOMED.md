@@ -37,7 +37,7 @@
 ----
 **MODULE 3**
 - [ ] 10-20 electrode scheme DIAGRAM
-- [ ] EEG Recording Modes DIAGRAM
+- [ ] EEG Recording Modes, System DIAGRAM
 - [ ] body plethysmograph DIAGRAM
 - [ ] Electrical stimulation of muscle and nerve
 - [ ] Physiology of Respiratory System DIAGRAM
@@ -45,8 +45,13 @@
 - [ ] physiology of Human Nervous system DIAGRAM
 - [ ] Placement of EEG electrode DIAGRAM
 - [ ] Brain Waves and when they occur
-- [ ] **Respiratory Parameters DIAGRAM** AND MEASUREMENT
+- [ ] **Respiratory Parameters DIAGRAM** AND MEASUREMENT PHYSIOLOGY GAS EXCHANGE
 - [ ] Neuron Membrane Potential DIAGRAM
+- [ ] Functional Electrical stimulation PRINCIPLE and APPLICATION
+- [ ] EMG analysis acquisition of signal
+- [ ] EMG myoelectric Control System
+- [ ] Analysis of EEG signal
+- [ ] evoked potential
 ----
 **MODULE 4**
 - [ ] Applications of Telemetry in Medicine
@@ -60,6 +65,9 @@
 - [ ] Flame Photometer WORKING DIAGRAM
 - [ ] PACEMAKER atrio synchronous WORKING DIAGRAM
 - [ ] AC defibrillator WORKING DIAGRAM
+- [ ] Heart-Lung Machine
+- [ ] Biotelemetry system
+- [ ] OXYMETER blood cell counter
 - ----
 **MODULE 5**
 - [ ] A Scan PRINCIPLE DIAGRAM
@@ -69,4 +77,9 @@
 - [ ] Fluoroscopy in medical imaging 
 - [ ] CT number
 - [ ] X-RAY imaging system BLOCK DIAGRAM WORKING 
-- [ ] Ultrasonic Imaging 
+- [ ] Ultrasonic Imaging DIAGRAM WORKING PRINCIPLE
+- [ ] CT vs XRAY
+- [ ] CT IMAGE RECONSTRUCTION
+- [ ] A B M scan
+- [ ] Patient Safety
+- [ ] Ultrasonic Imaging system
