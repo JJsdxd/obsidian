@@ -20,7 +20,7 @@
 - [x] systole and diastole
 - [x] Einthoven's triangle
 - [x] korotkoff sounds
-- [ ] doppler effect significance in blood parameter measurement
+- [x] doppler effect significance in blood parameter measurement
 - [x] explain auscultatory method for measurement of blood pressure DIAGRAM
 - [x] unipolar limb lead configuration with DIAGRAM
 - [x] **ECG WORKING DIAGRAM**

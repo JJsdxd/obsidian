@@ -81,16 +81,21 @@
 			- empirically proven not yet explained theoretically
 			- proprietary algorithm based
 		- Ultrasonic pressure measurement
-		- 
+			- a occluding cuff with electronically controlled pneumatic system pressurizes till preset max pressure
+			- an RF transmitter and audio system generate a 2MHz carrier 
+			- which transducer transmit as ultrasonic vibrations into the patients arm
+			- The system initiates bleed off at preset rate and the doppler shift is measured and using rapid changes in the doppler shift the values of systolic and diastolic pressure are procured by the control system
 - [x] oscillometric ultrasonic noninvasive pressure measurement
 - [ ] Ultrasonic Blood flow meters
+	- doppler shift 
+	- transit time
 - [ ] systole and diastole
 	- systole :- highest pressure on the vessel walls when the heart is beating and pumping blood through the body
 	- diastole:- the lowest pressure on walls when heart is resting/in between beats
 - [x] korotkoff sounds
 - [ ] doppler effect significance in blood parameter measurement
-	- Ultrasonic systems for pressure as well as blood flow measurement are 
-- [ ] explain auscultatory method for measurement of blood pressure DIAGRAM
+	- Ultrasonic systems for pressure as well as blood flow measurement are based on doppler shift of ultrasonic waves
+- [x] explain auscultatory method for measurement of blood pressure DIAGRAM
 - [ ] Electromagnetic Blood Flow meter DIAGRAM and WORKING
 	- measure instantaneous pulsatile blood flow 
 	- based on electromagnetic induction
