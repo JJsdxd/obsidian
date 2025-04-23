@@ -76,7 +76,16 @@ $$
 	- cardiovascular system left atria gets oxygenated blood -> left ventricle -> rest of body via aorta , Right atria gets deoxygenated blood from body -> right ventricle -> lungs
 	- They must work in proper time relationship to ensure proper function
 	- cardiac excitation :- action potential initiates at top right atrium known as sinoartirial node (SA) ->activates both atria -> terminates at atrioventricular node (AVN) special fibers (delay line) times the signal properly for the ventricles and after the delay line it spreads through Purkinje fibers for activating both ventricles finally terminates at the tip /apex of the heart 
+	- [[Module 2]]
 - EEG:- potential from brain's electrical activity | Electrp encephalo gram
+	- frequency range from 1-30Hz
+	- amplitude range 20-100$\mu$V
+	- Gamma 30-100HZ motor function, problem solving,concentration
+	- Beta 12-30Hz normal walking state ,concentration, five senses, focus
+	- Alpha 7.5-12Hz learning, Relaxed, Creative, light meditation, conscious
+	- Theta 4-7.5Hz deep meditation, recall, fantasy, Light sleep
+	- Delta 0.1-4Hz deep sleep, dreamless sleep, non-REM sleep, unconscious
+	- SCALP EEG NON INVASIVE
 - EMG:- potential from muscle activity | Electro Musculo Gram
 - ERG:- potential from retina of the eye | Electro Retino Gram
 - EOG:- position and movement of the eye | Electro Oculo Gram
