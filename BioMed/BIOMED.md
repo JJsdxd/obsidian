@@ -54,7 +54,7 @@
 - [ ] evoked potential
 ----
 **MODULE 4**
-- [ ] Applications of Telemetry in Medicine
+- [x] Applications of Telemetry in Medicine
 - [ ] Working of PH meter
 - [ ] Pacemakers WORKING DIAGRAM
 - [ ] Cardiac Defibrillator WORKING DIAGRAM

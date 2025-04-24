@@ -39,7 +39,7 @@
 			- in remote areas the ambulances may have systems that transmit data to the hospitals along with two way voice communication 
 			- This allows ECGs to be monitored and neccessary preparations made before arrival of patient 
 		- Telephone links :- certain ECG units can be coupled with cellphones to provide remote info for the doctor to schedule appointments
-		- 
+
 - [ ] Working of PH meter
 - [ ] Pacemakers WORKING DIAGRAM
 - [ ] Cardiac Defibrillator WORKING DIAGRAM
