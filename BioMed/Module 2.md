@@ -99,7 +99,9 @@
 		- Transit Time ultrasonic Flow Meters use transit time difference in transmitting a data across blood stream upstream and down stream to calculate blood flow velocity
 		- t=distance/conduction velocity
 		- t=D/c+ucos$\theta$
-		- t- transit time D-distance , c- speed of light, u blood flow velocity
+		- t- transit time D-distance , c- speed of light, u-blood flow velocity
+		- transducers are kept at an angle to the blood vessel of $\theta$
+		- uses peizo electric transducers same as doppler shift
 - [ ] systole and diastole
 	- systole :- highest pressure on the vessel walls when the heart is beating and pumping blood through the body
 	- diastole:- the lowest pressure on walls when heart is resting/in between beats

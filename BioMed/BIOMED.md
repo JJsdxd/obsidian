@@ -33,7 +33,7 @@
 - [x] analysis of ECG signal
 - [x] Measurement of blood pressure direct indirect relative
 - [x] oscillometric ultrasonic noninvasive pressure measurement
-- [ ] Ultrasonic Blood flow meters
+- [x] Ultrasonic Blood flow meters
 ----
 **MODULE 3**
 - [ ] 10-20 electrode scheme DIAGRAM
