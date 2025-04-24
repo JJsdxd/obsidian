@@ -35,7 +35,14 @@
 		- no drift
 	- Sensitivity control
 		- one adjusts sensitivity of recording pen
-		- 
+		- a continuously variable one to equalize the sensitivity of all channels
+		- one with known step values for each individual channel gain control
+	- Filters - noise removal
+	- Writing Part 
+		- The writing part of an EEG machine is usually of the ink type direct writing recorder
+		- The best type of pen motors used in an EEG have a frequency response of 90Hz
+		- some have 45Hz inkjet system has a response of 1000Hz
+	- Paper Drive - This is provided by a synchronous motor speed 15,30,60mm/s
 - [ ] body plethysmograph DIAGRAM
 - [ ] Electrical stimulation of muscle and nerve
 - [ ] Physiology of Respiratory System DIAGRAM
@@ -47,6 +54,20 @@
 - [ ] Neuron Membrane Potential DIAGRAM
 - [ ] Functional Electrical stimulation PRINCIPLE and APPLICATION
 - [ ] EMG analysis acquisition of signal
+	- technique for evaluating and recording the action potential of muscles
+	- 50 $\mu$V to 30 mV
+	- Surface electrodes:-
+		- used to monitor electrical activity of muscles
+		- gets general activity
+	- Needle electrodes:- 
+		- to monitor electrical activity few muscle fibers
+		- needle is inserted through the skin
+	```mermaid 
+	flowchart LR
+	Body_Part --> EMG_Electrode --> Bio-Electric_amplifier --> EMG_Recorder
+	Bio-Electric_amplifier --> AF_Amplifier
+	Bio-Electric_amplifier -->
+	```
 - [ ] EMG myoelectric Control System
 - [ ] Analysis of EEG signal
 - [ ] evoked potential

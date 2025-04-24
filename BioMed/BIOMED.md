@@ -36,8 +36,8 @@
 - [x] Ultrasonic Blood flow meters
 ----
 **MODULE 3**
-- [ ] 10-20 electrode scheme DIAGRAM
-- [ ] EEG Recording Modes, System DIAGRAM
+- [x] 10-20 electrode scheme DIAGRAM
+- [x] EEG Recording Modes, System DIAGRAM
 - [ ] body plethysmograph DIAGRAM
 - [ ] Electrical stimulation of muscle and nerve
 - [ ] Physiology of Respiratory System DIAGRAM
