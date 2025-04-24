@@ -1,8 +1,8 @@
 - [ ] Applications of Telemetry in Medicine
 	- Remote Measurement 
-	```measurand
+	```mermaid
 	flowchart LR
-	Measurand --> Transducer/sensor --> Signal_Conditioner --> Transmitter --> reciever --> Signal_Conditioner2 -
+	Measurand --> Transducer/sensor --> Signal_Conditioner --> Transmitter --> reciever --> Signal_Conditioner2 --> End_device
 	```
 - [ ] Working of PH meter
 - [ ] Pacemakers WORKING DIAGRAM
