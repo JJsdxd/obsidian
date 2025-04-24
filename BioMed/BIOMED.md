@@ -66,7 +66,7 @@
 - [ ] PACEMAKER atrio synchronous WORKING DIAGRAM
 - [ ] AC defibrillator WORKING DIAGRAM
 - [ ] Heart-Lung Machine
-- [ ] Biotelemetry system
+- [x] Biotelemetry system
 - [ ] OXYMETER blood cell counter
 - ----
 **MODULE 5**
