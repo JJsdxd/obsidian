@@ -48,7 +48,7 @@
 - [ ] **Respiratory Parameters DIAGRAM** AND MEASUREMENT PHYSIOLOGY GAS EXCHANGE
 - [ ] Neuron Membrane Potential DIAGRAM
 - [ ] Functional Electrical stimulation PRINCIPLE and APPLICATION
-- [ ] EMG analysis acquisition of signal
+- [x] EMG analysis acquisition of signal
 - [ ] EMG myoelectric Control System
 - [ ] Analysis of EEG signal
 - [ ] evoked potential

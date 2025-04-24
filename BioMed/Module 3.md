@@ -49,7 +49,7 @@
 - [ ] Working Principle of Spirometer DIAGRAM
 - [ ] physiology of Human Nervous system DIAGRAM
 - [ ] Placement of EEG electrode DIAGRAM
-- [ ] Brain Waves and when they occur
+- [x] Brain Waves and when they occur
 - [ ] **Respiratory Parameters DIAGRAM** AND MEASUREMENT PHYSIOLOGY GAS EXCHANGE
 - [ ] Neuron Membrane Potential DIAGRAM
 - [ ] Functional Electrical stimulation PRINCIPLE and APPLICATION
@@ -66,8 +66,16 @@
 	flowchart LR
 	Body_Part --> EMG_Electrode --> Bio-Electric_amplifier --> EMG_Recorder
 	Bio-Electric_amplifier --> AF_Amplifier
-	Bio-Electric_amplifier -->
+	Bio-Electric_amplifier --> Oscilloscope
 	```
+	- EMG electrode :- electrode for EMG can be surface or needle
+	- bio electric amp
+		- high gain
+		- high cmrr
+		- amplifies EMG signal from few micro to milli volts
+	- AF amp:- normal muscles produce electric sound when needles being inserted damaged muscles produce different sound. AF amp distinguishes these early on
+	- Oscilloscope to visualize the EMG. DSO can store it
+	- EMG Recorder:- photographic recording on light sensitive paper
 - [ ] EMG myoelectric Control System
 - [ ] Analysis of EEG signal
 - [ ] evoked potential
