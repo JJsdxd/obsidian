@@ -9,7 +9,18 @@
 		1. The ability of an IOT device to setup to IOT infrastructure provided networking and fetch software upgrades with limited/zero user intervention
 		2. This ability allows a large number of devices to work together to provide functionalities
 	3. inter operable Communication Protocols
-		1. support number of inter operable communication protocols to communicate with other devices as well as
+		1. support number of inter operable communication protocols to communicate with other devices as well as IOT infrastructure
+	4. Unique identity/Uniquely Identifiable
+		1. Each device should have its own unique identifier/unique identity (IP address)
+		2. IOT interfaces allow users to
+			1. query devices
+			2. monitor their status
+			3. remotely control
+	5. Integrated into Information Network
+		1. IOT devices are usually integrated into a information network which allows them to communicate with other devices and systems for exchanging data.
+		2. This integration allows the IOT devices to become smarter using collective intelligence
+		3. allows for larger data to be aggregated and analysed to predict weather etc..
+		4. weather monitoring nodes communicating is an example
 - [ ] IOT Enabling Technologies
 - [ ] Physical Design of IOT
 - [ ] Levels of IOT - Deployment Templates
