@@ -33,10 +33,30 @@
 - [ ] Exceptions - types 
 - [ ] Interrupts
 - [ ] Synchronization
-- [ ] 
+- [ ] Inter Task communication mechanisms
+- [ ] Characteristics of RTOS
 ----
 **MODULE 4**
-- [ ] 
+- [ ] EDD Algorithm
+- [ ] Task Control Block
+- [ ] HORN's Algorithm DIAGRAM
+- [ ] EDF algorithm precedence Constraints
+- [ ] precedence constraints in Real Time Task
+- [ ] rate monotonic 
+- [ ] Problems
+- [ ] LDF
+- [ ] Deadline monotonic
+- [ ] Real Time Kernel - structure, state transition
+- [ ] Kernel Primitives
 ----
 **MODULE 5**
-- [ ] 
+- [ ] FreeRTOS features
+- [ ] threads in MicroC/OS-II
+- [ ] implementation of Real Time System DIAGRAM  Examples
+- [ ] Interprocess Communication MicroC/OS-II
+- [ ] PSOS 
+- [ ] VRTX
+- [ ] RT Linux
+- [ ] Requirements Table Adaptive Cruise Control
+- [ ] features of Linux
+- [ ] case Study MicroC/OS-II
