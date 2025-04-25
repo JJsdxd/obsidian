@@ -29,5 +29,45 @@
 - [ ] ModBUS
 - [ ] NB-IOT
 - [ ] IEEE 802.15.4 physical layer
-- [ ] MAC Layer and security implementation with F
+- [ ] MAC Layer and security implementation with FRAME FORMAT
+- [ ] LoraWAN Physical and MAC layer
+- [ ] 6 LoW PAN adaptation layer
+- [ ] Unified Data Standards Protocol
+- [ ] MAC layer
+- [ ] Modbus-zigbee
+- [ ] LoRaWAN
+- [ ] LTE-M
+- [ ] RPL
+----
+**MODULE 4**
+- [ ] cloud based platforms
+- [ ] data collections, storage and computing used in cloud  platform
+- [ ] various cloud deployment models
+- [ ] IOT Device , BUILDING BLOCKS OF IOT DEVICE
+- [ ] Raspberry Pi
+- [ ] Computing-Cloud paradigm
+- [ ] Cloud Service models
+- [ ] NIMBITS
+- [ ] XIVELY
+- [ ] IOT physical Devices
+- [ ] Serial I2C SPI
+----
+**MODULE 5**
+- [ ] IOT vulnerabilities
+- [ ] Message Integrity
+- [ ] IOT strategy for smarter cities
+- [ ] vulnerabilities to attack (top 10)
+- [ ] street light architecture in smarter cities DIAGRAM
+- [ ] 4 Layer smart city architecture DIAGRAM
+- [ ] Privacy
+- [ ] Security
+- [ ] vulnerabilities solutions
+- [ ] security requirements
+- [ ] threat analysis
+- [ ] tomography
+- [ ] layered attacker model
+- [ ] identity management 
+- [ ] access control
+- [ ] secure message communication
+- [ ] Smart and Connected Cities
 - [ ] 
