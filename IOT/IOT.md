@@ -70,4 +70,5 @@
 - [ ] access control
 - [ ] secure message communication
 - [ ] Smart and Connected Cities
-- [ ] 
+- [ ] Vertical IOT vs Siloed 
+- [ ] examples
