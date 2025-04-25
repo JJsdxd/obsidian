@@ -1,0 +1,33 @@
+**MODULE 1**
+- [ ] Characteristics of IOT
+- [ ] IOT Enabling Technologies
+- [ ] Physical Design of IOT
+- [ ] Levels of IOT - Deployment Templates
+- [ ] IOT Functional Block
+- [ ] IOT communication models
+- [ ] IOT
+- [ ] Architectural View
+- [ ] Logical Design
+- ---
+**MODULE 2**
+- [ ] M2M vs IOT
+- [ ] Wireless Sensor Network Block Diagram
+- [ ] Sensors and Actuators
+- [ ] WSN Protocol detail
+- [ ] Network function Virtualization use case for IOT
+- [ ] issues of conventional networking architectures SDN
+- [ ] NFV
+- [ ] SDN
+- [ ] Smart Objects
+- [ ] Things in IOT - sensors, actuators and Smart Objects
+- [ ] Sensor Networks 
+- [ ] WSN
+- [ ] comm protocols for WSN
+- [ ] Connecting Smart Objects - communication Criteria
+----
+**MODULE 3**
+- [ ] ModBUS
+- [ ] NB-IOT
+- [ ] IEEE 802.15.4 physical layer
+- [ ] MAC Layer and security implementation with F
+- [ ] 
