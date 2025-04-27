@@ -65,7 +65,28 @@
 				- Hard to Fix bugs
 				- 
 		- Multi_Processor OS
+			- When more than one processor is present multi processor OS can be used to take advantage of this increased resource availability
+			- This can significantly cut down on the amount of time needed to execute programmes 
+			- by making use of parallel execution of multiple programmes
+				- Allows multitasking like in modern systems
+				- Games, Scientific Calculations, Financial computing etc..
+				- More Expensive due to the higher number of CPU and memory units required
 		- Multiprogramming OS
+			- Single Processor runs multiple Programmes at the same time
+			- when a programme is waiting for I/O the processor has other programmes ready to use the CPU
+			- multiple jobs share CPU time
+			- The jobs are not executed in parallel/at the same time
+				- Reduced Reaction time
+				- ability to perform multiple tasks within same programme at once
+				- multiple people's need can be satisfied at once
+				- short term tasks get executed faster
+				- Short term projects could receive great speed increases
+				- increased CPU and other resource utilisation
+				- -
+				- Extremely intricate and increased complexity
+				- Processor Scheduling is Essential
+				- Increased need for memory management
+				- 
 		- Distributed OS
 		- Time Sharing OS
 		- Real Time OS
