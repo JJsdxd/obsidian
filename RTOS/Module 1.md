@@ -74,10 +74,27 @@
 		- Controlled access of files
 	- Processor Control
 		- Determines how much time and when a program/process gets to access processor
+	```mermaid 
+	flowchart LR
+	subgraph kernel
+	I/O_Controller
+	subgraph Memory
+	Operating_System
+	
+	```
 - [ ] microkernel
 - [ ] exokernel
 - [ ] OS as User/Computer Interface
-	- Program Development:-  Editors/Debuggers assist programmer
+	- Program Development:-  Editors/Debuggers assist programmer in writing and debugging application programs These are provided in the application program development tool
+	- Program Execution :- These are load-program run-program execute-program 
+	- Access to I/O Devices :- a controlled and uniform means to access I/O device which is hidden from the end user
+	- Controlled Access to Files :- OS provides controlled access based on it's understanding of the I/O structure and for security of user in multiuser systems
+	- System Access :- Provides access to System as a whole and to specific System Resources . To resolve conflicts for Resource Retention
+	- Error-Detection :- An OS must be constantly aware of possible errors
+		- These may occur in CPU, I/O, memory etc..
+		- for each type of error OS should take the appropriate action to ensure correct and consistent computing
+		- Debugging facilities can greatly enhance User's experience and programmers ability to utilise the system efficiently
+	- Accounting :- keeping track of when how and which user used what resources in a computer
 
 - [ ] Process Control Block
 - [ ] Monolithic
