@@ -285,7 +285,10 @@
 	running -->|interrupt| ready
 	```
 
-
+	- Suspended state
+		- when no process in memory is in ready state os moves blocked process into suspend queue 
+		- when suspended process is ready to run it moves into ready_suspend queue
+		- two new states are Ready_susp
 - [ ] Operations on processes
 
 
