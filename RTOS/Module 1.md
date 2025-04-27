@@ -188,6 +188,13 @@
 
 - [ ] Process Control Block
 - [ ] Monolithic
+	- Simple Operating System where memory, file, device and process management are all done by the kernel
+	- These components are all present inside the Kernel
+	- This has three major layers
+	- Application Layer:-
+	- 
+	- Hardware Layer:-
+	- 
 - [ ] Microkernel
 - [ ] Process State Diagram
 
@@ -207,10 +214,19 @@
 			- allocates memory to processes
 			- When a Process requires access to any peripheral device/hardware component the kernel allocates the component to it
 		- Device Management
-			- The kernel i
+			- The kernel is also in charge of managing all peripheral and storage devices connected to the system  as well as controlling the exchange of data between these
+			- The information is received from the system and is transferred to the various devices via the kernel
 		- Interrupt Handling
+			- When a process runs it can be interrupted by a higher priority task to be executed urgently
+			- The kernel is responsible for promptly storing the state of the current process and handing over control to the new process
+			- The kernel also handles System Calls, which are basically software interrupts
 		- Memory management
+			- Kernel is responsible for allocation as well release of memory
+			- Each process requires memory for its execution
+			- after execution this memory should released and reallocated
 		- Process Management
+			- The kernel is incharge of creation execution and termination of process in a system
+			- For the system to execute any task the kernel has to create and manage the processes
 - [ ] Operations on processes
 
 
