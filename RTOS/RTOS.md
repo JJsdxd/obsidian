@@ -6,10 +6,10 @@
 - [ ] Process Control Block
 - [x] Monolithic
 - [ ] Microkernel
-- [ ] Process State Diagram
+- [x] Process State Diagram
 - [x] Objectives of OS
 - [x] kernel
-- [ ] Operations on processes
+- [x] Operations on processes
 ----
 **MODULE 2**
 - [ ] Different Operations on Processes

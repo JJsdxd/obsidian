@@ -244,7 +244,8 @@
 	- State control by an OS
 	- The state of a process is represented by the information of process state
 	- Process runs on scheduling by OS. Process runs Instructions and continuous change takes place as the PC changes
-	- 
+	- Process Image is the collection of program, data and PCB together
+	- Process 
 
 - [ ] Microkernel
 - [ ] Layered OS
@@ -288,8 +289,20 @@
 	- Suspended state
 		- when no process in memory is in ready state os moves blocked process into suspend queue 
 		- when suspended process is ready to run it moves into ready_suspend queue
-		- two new states are Ready_susp
-- [ ] Operations on processes
+		- two new states are Ready_suspend and Blocked_suspend
+		- Ready_suspend: 
+			- process is in secondary memory but is ready for execution as soon as loaded into main memory
+		- Blocked_suspend: 
+			- The process is in the secondary memory and awaiting event
+	```mermaid
+	flowchart LR
+	NEW -->|admit|Ready -->|Dispatch|Running --> |Release|EXIT
+	Running -->|Event Wait|BLOCKED -->|Suspend|Blocked_Suspend -->|Event Occurs|Ready_Suspend -->|Activate|Ready
+	Ready -->|Suspend|Ready_Suspend
+	Blocked_Suspend -->|Activate|BLOCKED -->|Event Occurs|Ready
+	Running -->|Time_OUT|Ready
+	```
+- [x] Operations on processes
 
 
 
