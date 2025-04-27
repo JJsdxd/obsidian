@@ -246,8 +246,21 @@
 	- higher layers deal with application software
 	```mermaid 
 	flowchart 
-	
+	User_Programs --> I/O_buffer --> Process_Management --> Memory_Management --> Scheduling --> Hardware
 	```
+	- **Hardware** is the lowest layer, it is where the hardware devices are handled 
+	- **CPU Scheduling** It manages Scheduling tasks and schedules the processes for CPU
+	- **Memory Management** It manages the memory . It moves processes from disk to the primary memory for execution and returns the executed programs to disk
+	- **Process Management** It handles the processes, and it also assigns the CPU to execute processes
+	- **Input-Output Buffer** It allows the users to interface with the system and controls IO device Buffers and ensure that IO devices work properly
+	- **User Programs** It is associated with the user programs like word processor, browser. All the User Programs are handled in this layer
+	- +
+		- Easy debugging Discrete layers allow the debugging that needs to be done to be limited to the single layer where the error is found
+		- Modularity Each layer only performs it's stipulated task 
+		- Abstraction Each layer is contained and functions and implementations of the other layer are abstract to it
+		- Easy Update a modification of one layer does not require any modification in the remaining layers
+	- -ve
+		- Complex 
 - [ ] Process State Diagram
 
 
