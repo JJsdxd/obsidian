@@ -238,6 +238,16 @@
 - [ ] Process Control Block
 
 - [ ] Microkernel
+- [ ] Layered OS
+	- OS with separate layers for handling user and application software
+	- A layered operating system that has divided into multiple layers
+	- each layer with a fixed task assigned to it
+	- lower layers core system software
+	- higher layers deal with application software
+	```mermaid 
+	flowchart 
+	
+	```
 - [ ] Process State Diagram
 
 
