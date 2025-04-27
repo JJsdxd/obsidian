@@ -280,8 +280,10 @@
 	- Terminated/EXIT The process has finished execution
 	```mermaid
 	flowchart LR
-	new -->
-```
+	new -->|admitted| ready --> |scheduler dispatch| running --> |exit| Terminated/EXIT
+	running -->|I/O or event wait| waiting/Blocked -->|I/O Event completion| ready 
+	running -->|interrupt| ready
+	```
 
 
 - [ ] Operations on processes
