@@ -86,9 +86,27 @@
 				- Extremely intricate and increased complexity
 				- Processor Scheduling is Essential
 				- Increased need for memory management
-				- 
+				- Managing everything is a difficult task
 		- Distributed OS
+			- Allows the OS to be run on multiple devices at the same time
+			- used to spread data and applications
+			- used in computer networks to coordinate Their Hardware and Software resources
+			- the users may be geographically separated
+			- multiple computers share a single data link
+			- Each system has its own separate computing power and storage which is not shared
+			- These systems may share discs, networking, Hardware, Software nodes, CPU, Network Interfaces etc..
+			- More people can access information
+			- +
+			- These Shared Resources allow for increased speed and efficiency
+			- sharing of Resources makes the system cheaper
+			- The system allows each system to work on their
+			- a single failure won't take down the whole system
+			- Computers can be easily added to this system
+			- -
+			- high setup cost
+			- Server failure will be critical
 		- Time Sharing OS
+			- 
 		- Real Time OS
 - [ ] OS as Resource Manager
 	- OS controls the movement, storage and processing of data
