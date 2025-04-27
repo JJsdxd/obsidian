@@ -2,7 +2,7 @@
 - [x] Functions of OS
 - [ ] microkernel
 - [ ] exokernel
-- [ ] OS as Resource Manager
+- [x] OS as Resource Manager
 - [ ] Process Control Block
 - [ ] Monolithic
 - [ ] Microkernel

@@ -130,7 +130,14 @@
 			- There are two types
 			- Hard Real time :- in these systems even small delays are not tolerated as these may be system critical 
 			- Soft-Real Time :- Here these systems allow for small delays without losing functionality
-			- These are commonly
+			- These are commonly Employed in Traffic Control/Medical Systems
+				- +
+				- Resources and Technology are utilised to their full extent
+				- These Systems are nearly error Free
+				- -
+				- Uses very complicated Algorithms
+				- Limited Duties can be performed
+				- Increased System Resources for OS
 - [ ] OS as Resource Manager
 	- OS controls the movement, storage and processing of data
 	- OS functions as an ordinary computer software
@@ -185,6 +192,25 @@
 - [ ] Process State Diagram
 
 - [ ] kernel
+	- The kernel is the Core of the Operating System
+	- It is a program that is at the Core of a Computer
+	- This is always present in the system memory
+	- This facilitates interaction between hardware and software components
+	- This is the medium with which the OS controls the hardware components
+	- Functions
+		- Process Scheduling
+			- The kernel provides a part of time for each process to access the processor 
+			- After one finishes execution the kernel starts another
+		- Resource Allocation
+			- kernel has control of CPU, memory, peripheral Devices etc.
+			- it acts as the link between processes and resources
+			- allocates memory to processes
+			- When a Process requires access to any peripheral device/hardware component the kernel allocates the component to it
+		- Device Management
+			- The kernel i
+		- Interrupt Handling
+		- Memory management
+		- Process Management
 - [ ] Operations on processes
 
 
