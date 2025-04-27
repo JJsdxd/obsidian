@@ -184,6 +184,7 @@
 		- Debugging facilities can greatly enhance User's experience and programmers ability to utilise the system efficiently
 	- Accounting :- keeping track of when how and which user used what resources in a computer
 - [ ] Monolithic
+	- The entire operating system operates in kernel space
 	- Simple Operating System where memory, file, device and process management are all done by the kernel
 	- These components are all present inside the Kernel
 	- This has three major layers
@@ -236,6 +237,14 @@
 
 
 - [ ] Process Control Block
+	- Process is a computational unit
+	- The execution of a program is known as process/task
+	- Each process is under the control of the OS
+	- Process :- is sequentially executable program(codes)
+	- State control by an OS
+	- The state of a process is represented by the information of process state
+	- Process runs on scheduling by OS. Process runs Instructions and continuous change takes place as the PC changes
+	- 
 
 - [ ] Microkernel
 - [ ] Layered OS
@@ -260,8 +269,19 @@
 		- Abstraction Each layer is contained and functions and implementations of the other layer are abstract to it
 		- Easy Update a modification of one layer does not require any modification in the remaining layers
 	- -ve
-		- Complex 
+		- Complex The layer layout makes the design much more complex as the means of access needs to be robustly defined
+		- Slower in Execution  When one layer wishes to interact with another, It sends a request that must traverse all layers between the two layers to be fullfilled increasing layer count may make the design inefficient
+
 - [ ] Process State Diagram
+	- new The process is being created
+	- running Process that are currently being executed
+	- waiting/Blocked  The process is waiting for some event to occur
+	- ready  The process waiting to be assigned to a processor
+	- Terminated/EXIT The process has finished execution
+	```mermaid
+	flowchart LR
+	new -->
+```
 
 
 - [ ] Operations on processes
