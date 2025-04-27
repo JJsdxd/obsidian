@@ -234,6 +234,7 @@
 			- For the system to execute any task the kernel has to create and manage the processes
 - [ ] microkernel
 - [ ] exokernel
+	- programs can communicate directly with system hardware
 
 
 - [ ] Process Control Block
@@ -245,8 +246,42 @@
 	- The state of a process is represented by the information of process state
 	- Process runs on scheduling by OS. Process runs Instructions and continuous change takes place as the PC changes
 	- Process Image is the collection of program, data and PCB together
-	- Process 
-
+	- Process identification, Process state information, Process control information is contained in PCB
+	```mermaid 
+	block-beta
+	columns 1
+	Process ID
+	Priority
+	Process State
+	PSR
+	Registers
+	Event_Information
+	Memory_Allocation
+	Resources_Held
+	PCB_Pointer
+	```
+	- Process Identification
+		- numeric process identifier Process ID (pid)
+		- identifier of the parent (ppid)
+		- user identifier(uid)
+	- Process State Information
+		- User visible registers
+		- Control and status registers(PC, IR, PSW, interrupt related bits, execution mode)
+		- stack pointers
+	- Process Control information
+		- Scheduling and state information
+			- process state
+			- priority
+			- scheduling
+			- awaited event
+		- Data Structuring
+			- pointers to other PCB (parent/child/same queue)
+		- interprocess communication Various flags, signals, messages may also be part of PCB
+		- Process privileges
+		- memory management
+		- resource ownership
+	- PCB is very protected
+	- 
 - [ ] Microkernel
 - [ ] Layered OS
 	- OS with separate layers for handling user and application software

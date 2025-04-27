@@ -3,7 +3,7 @@
 - [ ] microkernel
 - [ ] exokernel
 - [x] OS as Resource Manager
-- [ ] Process Control Block
+- [x] Process Control Block
 - [x] Monolithic
 - [ ] Microkernel
 - [x] Process State Diagram
