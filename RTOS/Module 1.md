@@ -53,6 +53,22 @@
 - [ ] OS
 	- Layer of Software built with the purpose of providing User Programs with a simple interface to the computer Hardware
 	- is a collection of system programmes providing user/applications with a means to access the resources in a computer
+	- Types of OS
+		- Batch OS
+			- No direct access to the computer
+			- every user works on a device like a punch card which are then handed over to a computer operator
+			- similar need programmes are grouped together to  be more efficient and increase speed of processing
+				- allows multiple user at the same time
+				- lowers net time taken to run all the programmes
+				- If a job fails other jobs will have to wait for an unknown amount of time
+				- Batch Systems are Expensive
+				- Hard to Fix bugs
+				- 
+		- Multi_Processor OS
+		- Multiprogramming OS
+		- Distributed OS
+		- Time Sharing OS
+		- Real Time OS
 - [ ] OS as Resource Manager
 	- OS controls the movement, storage and processing of data
 	- OS functions as an ordinary computer software
@@ -80,7 +96,12 @@
 	I/O_Controller
 	subgraph Memory
 	Operating_System
-	
+	Programs_&_Data
+	end
+	Processor
+	end
+	I/O_devices <--> I/O_Controller
+	I/O_Controller <--> Storage
 	```
 - [ ] microkernel
 - [ ] exokernel
