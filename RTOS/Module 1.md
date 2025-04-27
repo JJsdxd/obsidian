@@ -97,17 +97,40 @@
 			- These systems may share discs, networking, Hardware, Software nodes, CPU, Network Interfaces etc..
 			- More people can access information
 			- +
-			- These Shared Resources allow for increased speed and efficiency
-			- sharing of Resources makes the system cheaper
-			- The system allows each system to work on their
-			- a single failure won't take down the whole system
-			- Computers can be easily added to this system
-			- -
-			- high setup cost
-			- Server failure will be critical
+				- These Shared Resources allow for increased speed and efficiency
+				- sharing of Resources makes the system cheaper
+				- The system allows each system to work on their
+				- a single failure won't take down the whole system
+				- Computers can be easily added to this system
+				- -
+					- high setup cost
+					- Server failure will be critical
 		- Time Sharing OS
-			- 
+			- Invented as an alternative to multiprogramming batch os
+			- multiple user simultaneously use the same hardware through different terminals 
+			- The OS interleaves the execution of Each user using by providing Short Bursts or Quantum of Computation
+			- Minimizes Response Time
+			- Commands in Terminal
+			- Allows numerous concurrent user through a shared User Interface
+			- Prevalent in businesses and such with high Personnel count
+			- Enables access to same files/applications to multiple concurrent users
+			- +
+				- Speedy Response times
+				- User Friendly 
+				- reduces CPU idle time
+				- each task has set duration of time
+			- -
+				- increased resource utilisation
+				- High specification hardware required
+				- Security and Integrity of programmes is a concern
+				- dependability is a concern
 		- Real Time OS
+			- This OS is employed when there is a need for the system to process and gather data in a fixed amount of time
+			- Usually when data is to be analyzed in Real time
+			- There are two types
+			- Hard Real time :- in these systems even small delays are not tolerated as these may be system critical 
+			- Soft-Real Time :- Here these systems allow for small delays without losing functionality
+			- These are commonly
 - [ ] OS as Resource Manager
 	- OS controls the movement, storage and processing of data
 	- OS functions as an ordinary computer software
