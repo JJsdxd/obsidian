@@ -16,16 +16,19 @@
 		- Software that uses computer hardware to solve computing problems often specialized
 		- word processors, web browers etc
 	- Users - humans  machines other computers, etc
-	 ```mermaid
-	 block-beta
-	 columns 1
-		 User_1 --> System["System and application programs"]
-		 User_2 --> System["System and application programs"]
-		 User_3 --> System["System and application programs"]
-		 User_n --> System["System and application programs"]
-		 Block System
-		 
-	 
+	```mermaid
+	flowchart LR
+	User_1 --> compiler
+	User_2 --> assembler
+	User_3 --> text-editor
+	User_n --> database
+
+	compiler --> Operating_System
+	assembler --> Operating_System
+	text-editor --> Operating_System
+	database --> Operating_System
+
+	Operating_System --> Computer_Hardware
 	```
 - [ ] Objectives of OS
 	- a Program that acts as an intermediary/interface between user and the computer hardware
