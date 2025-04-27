@@ -172,8 +172,6 @@
 	I/O_devices <--> I/O_Controller
 	I/O_Controller <--> Storage
 	```
-- [ ] microkernel
-- [ ] exokernel
 - [ ] OS as User/Computer Interface
 	- Program Development:-  Editors/Debuggers assist programmer in writing and debugging application programs These are provided in the application program development tool
 	- Program Execution :- These are load-program run-program execute-program 
@@ -185,19 +183,25 @@
 		- for each type of error OS should take the appropriate action to ensure correct and consistent computing
 		- Debugging facilities can greatly enhance User's experience and programmers ability to utilise the system efficiently
 	- Accounting :- keeping track of when how and which user used what resources in a computer
-
-- [ ] Process Control Block
 - [ ] Monolithic
 	- Simple Operating System where memory, file, device and process management are all done by the kernel
 	- These components are all present inside the Kernel
 	- This has three major layers
 	- Application Layer:-
-	- 
+	- Monolithic Kernel layer
 	- Hardware Layer:-
-	- 
-- [ ] Microkernel
-- [ ] Process State Diagram
-
+	- Every application in this Operating System has it's own address space as a result the applications are safer
+	- kernel has file system, memory manager and CPU scheduler
+		- +
+		- is faster due to the memory management, file management and process scheduling being implemented in the same address space
+		- it has simple structure which is easy to understand
+		- all the components have the ability to interact directly with each other indirectly via the kernel
+		- works better for smaller tasks as it may handle limited resources
+		- -
+		- User programs uses same address space as kernel a bug may take down the whole system
+		- not easy to port code written in monolithic
+		- difficult to add/remove features
+		- all the code must be modified and recompiled to do the same
 - [ ] kernel
 	- The kernel is the Core of the Operating System
 	- It is a program that is at the Core of a Computer
@@ -227,6 +231,16 @@
 		- Process Management
 			- The kernel is incharge of creation execution and termination of process in a system
 			- For the system to execute any task the kernel has to create and manage the processes
+- [ ] microkernel
+- [ ] exokernel
+
+
+- [ ] Process Control Block
+
+- [ ] Microkernel
+- [ ] Process State Diagram
+
+
 - [ ] Operations on processes
 
 

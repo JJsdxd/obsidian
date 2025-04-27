@@ -4,11 +4,11 @@
 - [ ] exokernel
 - [x] OS as Resource Manager
 - [ ] Process Control Block
-- [ ] Monolithic
+- [x] Monolithic
 - [ ] Microkernel
 - [ ] Process State Diagram
 - [x] Objectives of OS
-- [ ] kernel
+- [x] kernel
 - [ ] Operations on processes
 ----
 **MODULE 2**
