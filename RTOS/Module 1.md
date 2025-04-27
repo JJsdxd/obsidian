@@ -30,11 +30,25 @@
 
 	Operating_System --> Computer_Hardware
 	```
+	```mermaid
+	flowchart 
+	End_User --> Application_Programs
+	Application_Programs --> Utilities
+	Programmer --> Utilities
+	Programmer --> Operating_System
+	Utilities --> Operating_System
+
+	Operating_System_Designer --> Computer_Hardware
+	Operating_System --> Computer_Hardware
+	```
 - [ ] Objectives of OS
-	- a Program that acts as an intermediary/interface between user and the computer hardware
+	- a Program that acts as an intermediary/interface between user/userprogrammes and the computer hardware
 	- execute user programs and make solving user problems easier
-	- make computer system convenient to use
-	- Use the computer Hardware in an efficient manner
+	- **CONVENIENCE** - make computer system convenient to use
+	- **EFFICIENCY** -Use the computer Hardware in an efficient manner
+	- **ABILITY TO EVOLVE** - to hide details of hardware resources from the user
+- [ ] OS
+	- Layer of Software built with the purpose of providing User Programs with a simple interface to the computer Hardware
 - [ ] kernel
 - [ ] Operations on processes
 
