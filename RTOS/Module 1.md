@@ -1,7 +1,11 @@
 - [ ] Functions of OS
 - [ ] microkernel
 - [ ] exokernel
+- [ ] OS as User/Computer Interface
 - [ ] OS as Resource Manager
+	- OS controls the movement, storage and processing of data
+	- OS functions as an ordinary computer software
+	- OS relinquishes controls or regains control Depending on processor
 - [ ] Process Control Block
 - [ ] Monolithic
 - [ ] Microkernel
