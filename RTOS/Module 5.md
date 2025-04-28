@@ -17,6 +17,11 @@
 - [ ] threads in MicroC/OS-II
 - [ ] implementation of Real Time System DIAGRAM  Examples
 - [ ] Interprocess Communication MicroC/OS-II
+	- semaphores
+	- message queues
+	- mutexes
+	- Event Flags
+	- Message Boxes
 - [ ] PSOS 
 	- portable Software on Silicon
 	- Host- target type RTOs
@@ -49,6 +54,11 @@
 	- RT application runs in the kernel space
 	- Two independent kernels Real Time Kernel and Linux Kernel
 	- deterministic scheduling tasks are run as Real Time task 
+		- Duplicated cording efforts
+		- Fragile execution enviornment
+		- Limited portability
+		- programming difficulty
+
 - [ ] Requirements Table Adaptive Cruise Control
 - [ ] features of Linux
 	- multiuser
@@ -63,3 +73,11 @@
 	- open source
 	- 
 - [ ] case Study MicroC/OS-II
+	- real time os written in ansi C
+	- small portion of assembly code
+	- Portability
+	- minimal memory needs
+	- fully preemptive kernel
+	- upto 64 tasks with unique priority levels
+	- partitioned memory management
+	- 
