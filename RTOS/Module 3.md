@@ -1,0 +1,8 @@
+- [ ] State Diagram RTOS queue
+- [ ] priority inversion and management
+- [ ] Structure of  RTOS DIAGRAM
+- [ ] Exceptions - types 
+- [ ] Interrupts
+- [ ] Synchronization
+- [ ] Inter Task communication mechanisms
+- [ ] Characteristics of RTOS

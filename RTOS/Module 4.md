@@ -1,0 +1,11 @@
+- [ ] EDD Algorithm
+- [ ] Task Control Block
+- [ ] HORN's Algorithm DIAGRAM
+- [ ] EDF algorithm precedence Constraints
+- [ ] precedence constraints in Real Time Task
+- [ ] rate monotonic 
+- [ ] Problems
+- [ ] LDF
+- [ ] Deadline monotonic
+- [ ] Real Time Kernel - structure, state transition
+- [ ] Kernel Primitives

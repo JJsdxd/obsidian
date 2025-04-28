@@ -233,8 +233,22 @@
 			- The kernel is incharge of creation execution and termination of process in a system
 			- For the system to execute any task the kernel has to create and manage the processes
 - [ ] microkernel
+	- minimized kernel size and functionality
+	- process management and I/O
+	- modularity
+	- MicroC/OS
+	- abstract
 - [ ] exokernel
 	- programs can communicate directly with system hardware
+	- +
+		- ease of development
+		- increased performance
+		- more efficient and intelligent use of hardware by applications
+	- -
+		- high complexity
+		- Less consistent
+	- minimal interface to hardware and relies on libraries for resource management
+	- low abstraction
 
 
 - [ ] Process Control Block

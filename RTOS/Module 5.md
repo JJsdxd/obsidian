@@ -1,0 +1,38 @@
+- [ ] FreeRTOS features
+	- pre emptive cooperative
+	- flexible task priority assignment
+	- light weight fast and flexible task notification system
+	- queues 
+	- binary semaphores
+	- counting semaphores
+	- mutexes 
+	- recursive mutexes
+	- software timers
+	- event groups
+	- Tick hook functions
+	- idle hook functions
+	- stack overflow checking
+	- trace recording 
+	- task run time statistics gathering
+- [ ] threads in MicroC/OS-II
+- [ ] implementation of Real Time System DIAGRAM  Examples
+- [ ] Interprocess Communication MicroC/OS-II
+- [ ] PSOS 
+	- portable Software on Silicon
+	- 
+- [ ] VRTX
+- [ ] RT Linux
+- [ ] Requirements Table Adaptive Cruise Control
+- [ ] features of Linux
+	- multiuser
+	- multitasking
+	- portability
+	- security
+	- liveusb/CD
+	- GUI
+	- custom keyboard
+	- application support 
+	- file system
+	- open source
+	- 
+- [ ] case Study MicroC/OS-II

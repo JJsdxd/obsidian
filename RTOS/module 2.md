@@ -1,0 +1,13 @@
+- [ ] Different Operations on Processes
+- [ ] Pre Emptive vs non pre-emptive process scheduling
+- [ ] Shortest remaining time first
+- [ ] Round Robin
+- [ ] FCFS 
+- [ ] thread Scheduling
+- [ ] Problems
+- [ ] Priority
+- [ ] Multilevel Queue Scheduling
+- [ ] Multilevel Feedback Queue Scheduling
+- [ ] Thread - Structure, User and Kernel Level threads
+- [ ] Multithreading Models
+- [ ] multiprocessor scheduling

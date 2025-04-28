@@ -1,11 +1,11 @@
 **MODULE 1**
 - [x] Functions of OS
-- [ ] microkernel
-- [ ] exokernel
+- [x] microkernel
+- [x] exokernel
 - [x] OS as Resource Manager
 - [x] Process Control Block
 - [x] Monolithic
-- [ ] Microkernel
+- [x] Microkernel
 - [x] Process State Diagram
 - [x] Objectives of OS
 - [x] kernel
