@@ -19,9 +19,36 @@
 - [ ] Interprocess Communication MicroC/OS-II
 - [ ] PSOS 
 	- portable Software on Silicon
-	- 
+	- Host- target type RTOs
+	- 32 priority levels
+	- footprint is only 12KB
+	- supports priority inheritence priority ceiling and segmented memory management
+	- doesn't support virtual memory
+	- memory is physically continuous 
+	- device drivers are outside kernel
+	- Interrupt directly triggers ISR
+	- Base stations of cell phones
 - [ ] VRTX
+	- double kernel VRTXmc and VRTXsa
+	- mission and life critical applications like avionics
+	- VRTXsa
+		- large and medium sized applications
+		- supports virtual memory
+		- supports priority inheritence
+		- system calls complete in fixed intervals and can be pre empted
+	- VRTXmc
+		- Optimised for low power consumption
+		- optimised for ROM and RAM sizes has small footprint
+		- no support for virtual memory
+		- computer based toys cell phones
+
 - [ ] RT Linux
+	- Self hosted OS that runs alongside linux system
+	- Real Time Kernel sits between the hardware and linux system
+	- Linux runs as a low priority back ground  task of RT linux
+	- RT application runs in the kernel space
+	- Two independent kernels Real Time Kernel and Linux Kernel
+	- deterministic scheduling tasks are run as Real Time task 
 - [ ] Requirements Table Adaptive Cruise Control
 - [ ] features of Linux
 	- multiuser
