@@ -75,7 +75,31 @@
 - [ ] IOT communication models
 	- **Request-Response**-
 		- Client sends Requests to server and Server responds to requests
-		- Server upon receiving request decides how to respond fetches data gets resource representations , prepares the response and then sends the rep
+		- Server upon receiving request decides how to respond fetches data gets resource representations , prepares the response and then sends the response to the client 
+		- Each request-response pair is independent of other
+	```mermaid
+	flowchart LR
+	Client -->|Request| Server <-->|data fetching|Resources
+	Server -->|Response|Client
+	```
+	- **Publish Subscribe**-
+		- This involves Publishers brokers and consumers
+		- Publishers are source of data
+		- publishers send the data to the topics which are managed by the broker 
+		- publishers are not aware of consumers
+		- consumers subscribe to topics managed by the broker
+			- Once broker receives data for a topic from the publisher, it sends the data to all the subscribed consumers
+	- **push-pull**-
+		- Push-pull is a communication model in which data is pushed into queues by data producers and the consumers pull data as necessary
+		- Producers are unaware of consumers
+		- Queues act as a buffer which helps in situations when there is a mismatch between rate at which producers push data and the rate at which consumers pull data
+		```mermaid
+		flowchart LR
+		Producer --> Queue1 -->|message pull| consumer1
+		Producer -->|message pull| Queue2 --> consumer2
+		```
+	- Exclusive Pair
+		- Exclusive Pair is a bi-directional, Fully Duplex communication model that uses a persistent connection between the client and se
 - [x] Architectural View
 - [x] Logical Design
 
