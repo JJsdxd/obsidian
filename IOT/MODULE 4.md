@@ -1,0 +1,11 @@
+- [ ] cloud based platforms
+- [ ] data collections, storage and computing used in cloud  platform
+- [ ] various cloud deployment models
+- [ ] IOT Device , BUILDING BLOCKS OF IOT DEVICE
+- [ ] Raspberry Pi
+- [ ] Computing-Cloud paradigm
+- [ ] Cloud Service models
+- [ ] NIMBITS
+- [ ] XIVELY
+- [ ] IOT physical Devices
+- [ ] Serial I2C SPI

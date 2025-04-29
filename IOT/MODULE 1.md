@@ -23,6 +23,14 @@
 		4. weather monitoring nodes communicating is an example
 - [ ] IOT Enabling Technologies
 - [ ] Physical Design of IOT
+	- The Things in IOT usually refers to devices that are uniquely identifiable can perform remote sensing/actuating/monitoring capabilities
+	- IOT device can
+		- exchange data with other connected devices and applications
+		- collect data from other devices and process the data locally
+		- Send the data to centralized servers or cloud based application back-ends for processing the data
+		- Perform some tasks locally and other tasks within the IOT Infrastructure based on temporal and space constraints
+	- IOT device can contain several interfaces
+		- S
 - [ ] Levels of IOT - Deployment Templates
 - [ ] IOT Functional Block
 - [ ] IOT communication models

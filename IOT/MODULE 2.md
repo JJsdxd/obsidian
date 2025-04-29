@@ -1,0 +1,14 @@
+- [ ] M2M vs IOT
+- [ ] Wireless Sensor Network Block Diagram
+- [ ] Sensors and Actuators
+- [ ] WSN Protocol detail
+- [ ] Network function Virtualization use case for IOT
+- [ ] issues of conventional networking architectures SDN
+- [ ] NFV
+- [ ] SDN
+- [ ] Smart Objects
+- [ ] Things in IOT - sensors, actuators and Smart Objects
+- [ ] Sensor Networks 
+- [ ] WSN
+- [ ] comm protocols for WSN
+- [ ] Connecting Smart Objects - communication Criteria

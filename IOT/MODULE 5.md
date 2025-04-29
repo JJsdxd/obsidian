@@ -1,0 +1,19 @@
+- [ ] IOT vulnerabilities
+- [ ] Message Integrity
+- [ ] IOT strategy for smarter cities
+- [ ] vulnerabilities to attack (top 10)
+- [ ] street light architecture in smarter cities DIAGRAM
+- [ ] 4 Layer smart city architecture DIAGRAM
+- [ ] Privacy
+- [ ] Security
+- [ ] vulnerabilities solutions
+- [ ] security requirements
+- [ ] threat analysis
+- [ ] tomography
+- [ ] layered attacker model
+- [ ] identity management 
+- [ ] access control
+- [ ] secure message communication
+- [ ] Smart and Connected Cities
+- [ ] Vertical IOT vs Siloed 
+- [ ] examples
