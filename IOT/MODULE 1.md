@@ -58,9 +58,25 @@
 		- DDR1/DDR2/DDR3
 - [ ] Levels of IOT - Deployment Templates
 - [ ] IOT Functional Block
-	- logical design 
+	- logical design of an IOT refers to an abstract representation of the entities and processes without going into the low-level specifics of the implementation
+	- **Application** TOP Center-
+		- IOT application provides an interface that allows user to control and monitor various aspects of the system
+		- Application also allow users to view the system status and view or analyze the processed data
+	- **Management** LEFT-
+		- functions to govern the system
+	- **services** center top-
+		- an IOT system uses various types of IOT services for data monitoring, data publishing, device discovery etc..
+	- **Communications** center bot-
+		- Communication block handles the communication for the IOT System using communication protocols
+	- **Security** Right-
+		- secures IOT system by providing functions like authorization,authenication, message and content integrity, data security
+	- **Device** bot-
+		- A system that comprises of sensing actuation monitoring and control functions
 - [ ] IOT communication models
-- [ ] Architectural View
+	- **Request-Response**-
+		- Client sends Requests to server and Server responds to requests
+		- Server upon receiving request decides how to respond fetches data gets resource representations , prepares the response and then sends the rep
+- [x] Architectural View
 - [x] Logical Design
 
 

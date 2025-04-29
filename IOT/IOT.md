@@ -1,13 +1,13 @@
 **MODULE 1**
 - [x] Characteristics of IOT
 - [ ] IOT Enabling Technologies
-- [ ] Physical Design of IOT
+- [x] Physical Design of IOT
 - [ ] Levels of IOT - Deployment Templates
-- [ ] IOT Functional Block
+- [x] IOT Functional Block
 - [ ] IOT communication models
-- [ ] IOT
-- [ ] Architectural View
-- [ ] Logical Design
+- [x] IOT
+- [x] Architectural View
+- [x] Logical Design
 - ---
 **MODULE 2**
 - [ ] M2M vs IOT
