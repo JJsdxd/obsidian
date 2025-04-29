@@ -22,6 +22,25 @@
 		3. allows for larger data to be aggregated and analysed to predict weather etc..
 		4. weather monitoring nodes communicating is an example
 - [ ] IOT Enabling Technologies
+	- wireless sensor networks
+		- is a distributed devices with sensors tasked with monitoring the enviornmental and physical conditions
+		- consists of number of end nodes routers and coordinators
+		- each end node has several sensors attached to them
+		- end nodes can also act as routers
+		- Coordinator collects data and acts as gateway to internet
+			- weather monitoring
+			- smartgrid
+			- indoor air quality monitoring systems
+	- cloud computing
+		- Cloud computing is a transformative computing paradigm 
+		- delivering services and appllications through the internet
+		- resource provision is automated
+		- provides computing networking and storage devices
+		- standard a
+	- big data analytics
+	- embedded systems
+	- communication protocols
+	- 
 - [ ] Physical Design of IOT
 	- The Things in IOT usually refers to devices that are uniquely identifiable can perform remote sensing/actuating/monitoring capabilities
 	- IOT device can
@@ -99,7 +118,26 @@
 		Producer -->|message pull| Queue2 --> consumer2
 		```
 	- Exclusive Pair
-		- Exclusive Pair is a bi-directional, Fully Duplex communication model that uses a persistent connection between the client and se
+		- Exclusive Pair is a bi-directional, Fully Duplex communication model that uses a persistent connection between the client and server
+		- Once setup the connection is only closed upon client request
+		- messages can be sent to and fro after setup
+		- Server is aware of all open connections
+		- client is aware of the server which it connects to
+		```mermaid
+		flowchart LR
+		Client -->|Request to setup Connection|Server
+		Server -->|Response accepting connection request|Client
+		
+		Client -->|message to server from client|Server
+		
+	
+		
+		Server -->|Message from server to client|Client
+		
+		Client -->|Request to close Connection|Server
+		Server -->|Connection Close Response|Client	
+		```
+	-
 - [x] Architectural View
 - [x] Logical Design
 

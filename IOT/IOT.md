@@ -4,7 +4,7 @@
 - [x] Physical Design of IOT
 - [ ] Levels of IOT - Deployment Templates
 - [x] IOT Functional Block
-- [ ] IOT communication models
+- [x] IOT communication models
 - [x] IOT
 - [x] Architectural View
 - [x] Logical Design
