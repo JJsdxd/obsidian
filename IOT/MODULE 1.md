@@ -30,12 +30,38 @@
 		- Send the data to centralized servers or cloud based application back-ends for processing the data
 		- Perform some tasks locally and other tasks within the IOT Infrastructure based on temporal and space constraints
 	- IOT device can contain several interfaces
-		- S
+		- I/O for sensors
+		- Interfaces for Internet Connectivity
+		- Memory and Storage Interfaces
+		- Audio/Video Interfaces
+	- Connectivity 
+		- USB HOST
+		- RJ45/INTERNET
+	- Processor
+		- CPU
+	- Audio/video interfaces
+		- HDMI
+		- 3.5mm
+		- RCA video
+	- I/O interfaces
+		- UART 
+		- SPI
+		- I2C
+		- CAN
+	- Storage Interfaces
+		- SD
+		- MMC
+		- SDIO
+	- Graphics - GPU
+	- Memory Interfaces
+		- NAND/NOR
+		- DDR1/DDR2/DDR3
 - [ ] Levels of IOT - Deployment Templates
 - [ ] IOT Functional Block
+	- logical design 
 - [ ] IOT communication models
 - [ ] Architectural View
-- [ ] Logical Design
+- [x] Logical Design
 
 
 
