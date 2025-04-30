@@ -81,7 +81,20 @@
 			- 
 - [ ] Things in IOT - sensors, actuators and Smart Objects
 - [ ] Sensor Networks 
-	- 
+	- sensor actuator networks is a network of sensors that sense and measure their environment and or actuators that act on their environment
+	- these are capable of communicating and cooperating
+	- effective and well coordinated communication and cooperation is a prominent challenge
+	- +
+		- deployment flexibility
+		- simpler scaling
+		- lower implementation costs
+		- easier long term maintenance
+		- better handles dynamic topology
+	- -
+		- potentially less secure
+		- lower transmission speeds
+		- Greater level of impact/influence by enviornment
+		- 
 - [ ] WSN
 	- made up of wirelessly connected smart objects referred to as motes
 	- is a network of spatially distributed sensors that can sense process and communicate data
@@ -96,3 +109,27 @@
 	- heirarchy - aggregates similar sensor readings in  close proximity to each other
 - [ ] comm protocols for WSN
 - [ ] Connecting Smart Objects - communication Criteria
+	- Range
+		- how far the signal needs to be propagated
+		- long range - 5g 2g 3g  greater than 1 mile
+		- medium range wifi zigbee less than 1 mile
+		- short bluetooth serial cable 10s of meters
+		- 
+	- frequency bands
+		- licensed spectrum unlicensed
+	- power consumption
+		- battery / power node sleep mode
+	- topology
+		- star mesh peer to peer 
+		- long/short range star 
+		- medium all
+		- 
+	- constrained devices
+		- class 0 less 10KB RAM < 100KB flash
+		- class 1 >10KB RAM >100KB Flash
+		- class 2 >50KB RAM 250KB flash
+		- 
+	- constrained node networks
+		- low power battery power
+		- lossy network performance
+	- Data Rate and T
