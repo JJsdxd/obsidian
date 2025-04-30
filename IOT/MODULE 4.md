@@ -1,10 +1,26 @@
 - [ ] cloud based platforms
 - [ ] data collections, storage and computing used in cloud  platform
 - [ ] various cloud deployment models
+	- Public
+		- open for public use 
+		- educational institutes industries government institutes
+	- Private
+		- use by employees and associates as a private means inside the organisation
+	- Community Cloud
+		- The model is exclusive for use by a community formed by institutions etc..
+		- within the community
+	- Hybrid Cloud
+		- A set of Two or more distinct clouds 
+		- with distinct data stores and applications and cnnection between them via proprietary technology
+		- 
 - [ ] IOT Device , BUILDING BLOCKS OF IOT DEVICE
 - [ ] Raspberry Pi
 - [ ] Computing-Cloud paradigm
 - [ ] Cloud Service models
+	- SaaS
+		- software is made available to a service/application on demand
+		- centrally hosted accesible through browser client
+		- 
 - [ ] NIMBITS
 - [ ] XIVELY
 - [ ] IOT physical Devices

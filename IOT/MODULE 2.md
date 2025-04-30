@@ -132,4 +132,5 @@
 	- constrained node networks
 		- low power battery power
 		- lossy network performance
-	- Data Rate and T
+	- Data Rate and Throughput
+	- Latency Deterministic

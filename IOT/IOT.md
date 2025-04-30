@@ -10,20 +10,20 @@
 - [x] Logical Design
 - ---
 **MODULE 2**
-- [ ] M2M vs IOT
-- [ ] Wireless Sensor Network Block Diagram
-- [ ] Sensors and Actuators
-- [ ] WSN Protocol detail
-- [ ] Network function Virtualization use case for IOT
-- [ ] issues of conventional networking architectures SDN
-- [ ] NFV
-- [ ] SDN
-- [ ] Smart Objects
-- [ ] Things in IOT - sensors, actuators and Smart Objects
-- [ ] Sensor Networks 
-- [ ] WSN
-- [ ] comm protocols for WSN
-- [ ] Connecting Smart Objects - communication Criteria
+- [x] M2M vs IOT
+- [x] Wireless Sensor Network Block Diagram
+- [x] Sensors and Actuators
+- [x] WSN Protocol detail
+- [x] Network function Virtualization use case for IOT
+- [x] issues of conventional networking architectures SDN
+- [x] NFV
+- [x] SDN
+- [x] Smart Objects
+- [x] Things in IOT - sensors, actuators and Smart Objects
+- [x] Sensor Networks 
+- [x] WSN
+- [x] comm protocols for WSN
+- [x] Connecting Smart Objects - communication Criteria
 ----
 **MODULE 3**
 - [ ] ModBUS
