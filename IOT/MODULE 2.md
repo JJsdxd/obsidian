@@ -1,7 +1,33 @@
 - [ ] M2M vs IOT
 	- Machine 2 machine
 		- provide direct communication between individual machines or devices
-		- it uses 
+		- it uses networking of machines for the purpose of remote monitoring, control and data exchange
+		```mermaid
+		flowchart LR
+		M2M_Area_Networks --> M2M_gateway -->M2M_CoreNetwork_wired/wireless-->M2M_Applications
+		```
+		- comprises of machines which has embedded hardware modules for sensing actuation and communication
+		- uses ZigBee, Bluetooth, Power LINE Communication
+		- can be wired or wireless
+		- Area network uses proprietary or Non IP based protocols
+		- Rest uses IP based protocol
+		- M2M Gateway
+			- intermediary between various devices and systems in M2M system
+			- connectivity between machines
+			- data exchange between machines
+			- compatibilities between different networks
+			- remote M2M area to core network
+		- Uses premises storage
+		- Uses homogenous machine types within area network
+		- point solutions
+	- IOT
+		- it is broader concept for internet communication between devices. It involves  a wide range of devices, sensors , actuator and applications that communicate via internet
+		- IOT uses IP BASED PROTOCOLS
+		- IOT is more software driven
+		- IOT uses Cloud to store data
+		- unique identifiers for devices
+		- IOT is connected to cloud for remote solutions
+		- Primarily Application and Transport layer for Commun
 - [ ] Wireless Sensor Network Block Diagram
 - [ ] Sensors and Actuators
 - [ ] WSN Protocol detail
