@@ -1,4 +1,7 @@
 - [ ] M2M vs IOT
+	- Machine 2 machine
+		- provide direct communication between individual machines or devices
+		- it uses 
 - [ ] Wireless Sensor Network Block Diagram
 - [ ] Sensors and Actuators
 - [ ] WSN Protocol detail

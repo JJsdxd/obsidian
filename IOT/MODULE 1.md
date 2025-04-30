@@ -102,7 +102,27 @@
 - [ ] Levels of IOT - Deployment Templates
 	- Level1:
 		- App<->REST/Websocket API <->Database <-> Controller Service <-> Resource <-> Device monitoring node
-		- single node th
+		- single node that does sensing, actuation, data processing, storage,analysis and hosts the application
+	- Level2: 
+		- single node for sensing/actuation and local analysis
+		- data is stored in cloud and application is cloud hosted
+	- Level 3
+		- single node  data is stored and analysed in cloud and application is cloud based
+		- when data involved is big
+	- Level 4
+		- multiple nodes performing local analysis
+		- also has cloud based observer nodes
+		- data storage and application is cloud based
+	- Level 5
+		- multiple end nodes on coordinator node
+		- end nodes for sensing/actuation
+		- coordinator node collects data and sends it to cloud
+		- data storage, analysis and application is cloud based
+	- Level 6
+		- multiple independent sensing/actuation nodes
+		- data is stored in cloud and application is cloud based
+		- result is analysed by analytics component and stored in cloud
+		- results visualised by cloud based application
 - [ ] IOT Functional Block
 	- logical design of an IOT refers to an abstract representation of the entities and processes without going into the low-level specifics of the implementation
 	- **Application** TOP Center-

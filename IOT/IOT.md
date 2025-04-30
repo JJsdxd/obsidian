@@ -2,7 +2,7 @@
 - [x] Characteristics of IOT
 - [x] IOT Enabling Technologies
 - [x] Physical Design of IOT
-- [ ] Levels of IOT - Deployment Templates
+- [x] Levels of IOT - Deployment Templates
 - [x] IOT Functional Block
 - [x] IOT communication models
 - [x] IOT
