@@ -20,6 +20,7 @@
 		- Uses premises storage
 		- Uses homogenous machine types within area network
 		- point solutions
+		- Network and link Layer for Communication
 	- IOT
 		- it is broader concept for internet communication between devices. It involves  a wide range of devices, sensors , actuator and applications that communicate via internet
 		- IOT uses IP BASED PROTOCOLS
@@ -27,14 +28,29 @@
 		- IOT uses Cloud to store data
 		- unique identifiers for devices
 		- IOT is connected to cloud for remote solutions
-		- Primarily Application and Transport layer for Commun
+		- Primarily Application and Transport layer for Communication
 - [ ] Wireless Sensor Network Block Diagram
 - [ ] Sensors and Actuators
 - [ ] WSN Protocol detail
 - [ ] Network function Virtualization use case for IOT
 - [ ] issues of conventional networking architectures SDN
 - [ ] NFV
+	- 
 - [ ] SDN
+	- simplifies data communication in networks
+	- router has control and data forwarding plane
+	- sdn removes control responsibilities from router
+	- has a unified view of network makes configuration, management and provisioning simpler
+	- application layer --> SDN_controller -->Infrastructure Layer (routers) Openflow protocol
+	- +
+		- easier management of network
+		- programmable network
+		- agility
+		- centralised management
+		- improved visibility of network
+		- cost effective network
+		- improved securtiy
+		- 
 - [ ] Smart Objects
 - [ ] Things in IOT - sensors, actuators and Smart Objects
 - [ ] Sensor Networks 
