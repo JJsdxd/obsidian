@@ -35,7 +35,11 @@
 - [ ] Network function Virtualization use case for IOT
 - [ ] issues of conventional networking architectures SDN
 - [ ] NFV
-	- 
+	- is the concept of replacing dedicated network devices such as routers and firewalls with software running on general purpose cpus or virtual machines
+	- NFV provides infrastructure on which SDN can run
+	- are mutually beneficial to each other but not dependant 
+	```Virtualized Net
+```
 - [ ] SDN
 	- simplifies data communication in networks
 	- router has control and data forwarding plane
