@@ -36,10 +36,29 @@
 		- delivering services and appllications through the internet
 		- resource provision is automated
 		- provides computing networking and storage devices
-		- standard a
+		- standard accessing mechanism can be used
+		- users are assigned virtual resources on top of physical resources
+		- The computing and storage resources provided are pooled to several user at a time
+		- same hardware serves multiple users
+			- **Infrastructure as a service(IaaS)**-virtual machines and virtual storage can be started stopped  pay per use
+			- **Platform as a Service(PaaS)**- develop and deploy application in the cloud using development tools , and APIs provided by the cloud service provider
+			- Software as a Service(SaaS)-  provides complete application/User Interface to the application itself
 	- big data analytics
+		- Big Data is defined as collection of data sets whose volume velocity or variety is so large that it is difficult to store, manage, process and analyze using traditional methods
+		- data cleansing data wrangling, data processing and visualization
+			- weather monitoring data 
+			- location tracking etc
+		- Volume:-
+			- massive amounts of data difficult to store
+		- Velocity:- 
+			- Speed of data generation and frequency of data variation
+		- Variety:-
+			- structured unstructured audio video,images etc
 	- embedded systems
 	- communication protocols
+		- backbone IOT systems enable network connectivity and application coupling
+		- allow data exchange over a network
+		- defines data exchange formats. data encoding, addressi
 	- 
 - [ ] Physical Design of IOT
 	- The Things in IOT usually refers to devices that are uniquely identifiable can perform remote sensing/actuating/monitoring capabilities
