@@ -14,9 +14,9 @@
 **MODULE 2**
 - [ ] Different Operations on Processes
 - [ ] Pre Emptive vs non pre-emptive process scheduling
-- [ ] Shortest remaining time first
-- [ ] Round Robin
-- [ ] FCFS 
+- [x] Shortest remaining time first
+- [x] Round Robin
+- [x] FCFS 
 - [ ] thread Scheduling
 - [ ] Problems
 - [ ] Priority
