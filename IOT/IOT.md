@@ -44,21 +44,21 @@
 - [x] data collections, storage and computing used in cloud  platform
 - [x] various cloud deployment models
 - [ ] IOT Device , BUILDING BLOCKS OF IOT DEVICE
-- [ ] Raspberry Pi
+- [x] Raspberry Pi
 - [x] Computing-Cloud paradigm
 - [x] Cloud Service models
 - [x] NIMBITS
 - [x] XIVELY
-- [ ] IOT physical Devices
+- [x] IOT physical Devices
 - [ ] Serial I2C SPI
 ----
 **MODULE 5**
-- [ ] IOT vulnerabilities
+- [x] IOT vulnerabilities
 - [ ] Message Integrity
-- [ ] IOT strategy for smarter cities
-- [ ] vulnerabilities to attack (top 10)
-- [ ] street light architecture in smarter cities DIAGRAM
-- [ ] 4 Layer smart city architecture DIAGRAM
+- [x] IOT strategy for smarter cities
+- [x] vulnerabilities to attack (top 10)
+- [x] street light architecture in smarter cities DIAGRAM
+- [x] 4 Layer smart city architecture DIAGRAM
 - [ ] Privacy
 - [ ] Security
 - [ ] vulnerabilities solutions
