@@ -38,8 +38,18 @@
 	- is the concept of replacing dedicated network devices such as routers and firewalls with software running on general purpose cpus or virtual machines
 	- NFV provides infrastructure on which SDN can run
 	- are mutually beneficial to each other but not dependant 
-	```Virtualized Net
-```
+	- Virutalised network functions 
+	- NFV infrastructure
+		- virtual compute 
+		- virtual network
+		- virtual memory
+		- virtualisation layer
+		- Hardware resources
+			- Physical Compute
+			- Physical memory
+			- Physical network
+	- NFV management/orchestration
+	- 
 - [ ] SDN
 	- simplifies data communication in networks
 	- router has control and data forwarding plane
@@ -56,8 +66,33 @@
 		- improved securtiy
 		- 
 - [ ] Smart Objects
+	- building blocks of IOT
+	- They have
+		- Processing UNIT
+		- sensors and actuators
+		- communication device
+		- Power Source
+		- Trends
+			- size decreasing
+			- power consumption decreasing
+			- processing power is increasing
+			- communication capabilities improving
+			- communication is being standardized
+			- 
 - [ ] Things in IOT - sensors, actuators and Smart Objects
 - [ ] Sensor Networks 
+	- 
 - [ ] WSN
+	- made up of wirelessly connected smart objects referred to as motes
+	- is a network of spatially distributed sensors that can sense process and communicate data
+	- limitations
+		- Limited Processing Power
+		- Limited memory
+		- Lossy Communication
+		- limited Transmission Speed
+		- Limited Power
+	- Usually deployed in very large numbers to overcome constraints of individual nodes
+	- cost decreasing
+	- heirarchy - aggregates similar sensor readings in  close proximity to each other
 - [ ] comm protocols for WSN
 - [ ] Connecting Smart Objects - communication Criteria
