@@ -55,10 +55,15 @@
 		- Variety:-
 			- structured unstructured audio video,images etc
 	- embedded systems
+		- computer system that has hardware and software embedded for specific tasks
+		- can only perform specific tasks
+		- micro processors/microcontrollers, memory, networking, input/output units and storage units
+			- DSP RTOS 
 	- communication protocols
 		- backbone IOT systems enable network connectivity and application coupling
 		- allow data exchange over a network
-		- defines data exchange formats. data encoding, addressi
+		- defines data exchange formats. data encoding, addressing schemes routing etc.
+		- sequence control, flow control, etc..
 	- 
 - [ ] Physical Design of IOT
 	- The Things in IOT usually refers to devices that are uniquely identifiable can perform remote sensing/actuating/monitoring capabilities
