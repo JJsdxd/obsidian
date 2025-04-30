@@ -100,6 +100,9 @@
 		- NAND/NOR
 		- DDR1/DDR2/DDR3
 - [ ] Levels of IOT - Deployment Templates
+	- Level1:
+		- App<->REST/Websocket API <->Database <-> Controller Service <-> Resource <-> Device monitoring node
+		- single node th
 - [ ] IOT Functional Block
 	- logical design of an IOT refers to an abstract representation of the entities and processes without going into the low-level specifics of the implementation
 	- **Application** TOP Center-

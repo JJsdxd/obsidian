@@ -1,6 +1,6 @@
 **MODULE 1**
 - [x] Characteristics of IOT
-- [ ] IOT Enabling Technologies
+- [x] IOT Enabling Technologies
 - [x] Physical Design of IOT
 - [ ] Levels of IOT - Deployment Templates
 - [x] IOT Functional Block
