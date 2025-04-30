@@ -20,8 +20,42 @@
 	- SaaS
 		- software is made available to a service/application on demand
 		- centrally hosted accesible through browser client
+		- customers are not concerned about computing resources
+		- updates and maintenance are responsibilities of the cloud service provider
+		- +
+			- no need for software installation
+			- Data can be stored online
+			- software and data accessible to any device
+			- data can be shared easily and effectively between multiple users
+			- Highly Advanced software available easily
+	- PaaS
+		- a platform that is available to the user to allow for development management and running of the application via the internet
+		- can be middleware
+		- application and services develop and execute using the platform
+		- which is made available through the internet
+		- +
+			- reduces development time and cost
+			- maintenance and backup are handled by service provider
+			- infrastructure is preset by provider
+			- high degree of freedom
+	- IaaS
+		- infrastructure is provided
+		- data stores, data centers and network
+		- user has control over backend can specify hardware components setup operating systems as required
+		- pay per use
+		- +
+			- comes with ready to use enviornmnet
+			- freedom of hardware spec
+			- easy to use resource scaling
+			- save hardware and maintenance costs
+	- Data as a Service
+		- Data Storage is provide via data centers
+		- data center management 24x7 power , control, network, maintenance, physical security provided by the service provider
+		- a cloud desktop/virtual desktop is provided
 		- 
 - [ ] NIMBITS
 - [ ] XIVELY
+	- PaaS
+	- native SDks for python 
 - [ ] IOT physical Devices
 - [ ] Serial I2C SPI
