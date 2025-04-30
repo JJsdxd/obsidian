@@ -40,15 +40,15 @@
 - [ ] RPL
 ----
 **MODULE 4**
-- [ ] cloud based platforms
-- [ ] data collections, storage and computing used in cloud  platform
-- [ ] various cloud deployment models
+- [x] cloud based platforms
+- [x] data collections, storage and computing used in cloud  platform
+- [x] various cloud deployment models
 - [ ] IOT Device , BUILDING BLOCKS OF IOT DEVICE
 - [ ] Raspberry Pi
-- [ ] Computing-Cloud paradigm
-- [ ] Cloud Service models
-- [ ] NIMBITS
-- [ ] XIVELY
+- [x] Computing-Cloud paradigm
+- [x] Cloud Service models
+- [x] NIMBITS
+- [x] XIVELY
 - [ ] IOT physical Devices
 - [ ] Serial I2C SPI
 ----

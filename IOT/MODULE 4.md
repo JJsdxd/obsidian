@@ -54,8 +54,23 @@
 		- a cloud desktop/virtual desktop is provided
 		- 
 - [ ] NIMBITS
+	- PaaS
+	- open Source distriuted Cloud
+	- edge computing
+	- multiple programming languages
+	- rule engine
+	- data logging and service access
+	- supports XML and JSOn
+	- H2 engine
+	- 
 - [ ] XIVELY
 	- PaaS
-	- native SDks for python 
+	- native SDks for python java ruby etc
+	- data visualisation
+	- collection
+	- alerts
+	- supports REST
+	- support ARm
+	- 
 - [ ] IOT physical Devices
 - [ ] Serial I2C SPI
