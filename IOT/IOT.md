@@ -1,4 +1,4 @@
-**MODULE 1**
+l**MODULE 1**
 - [x] Characteristics of IOT
 - [x] IOT Enabling Technologies
 - [x] Physical Design of IOT
@@ -44,21 +44,21 @@
 - [x] data collections, storage and computing used in cloud  platform
 - [x] various cloud deployment models
 - [ ] IOT Device , BUILDING BLOCKS OF IOT DEVICE
-- [x] Raspberry Pi
+- [ ] Raspberry Pi
 - [x] Computing-Cloud paradigm
 - [x] Cloud Service models
 - [x] NIMBITS
 - [x] XIVELY
-- [x] IOT physical Devices
+- [ ] IOT physical Devices
 - [ ] Serial I2C SPI
 ----
 **MODULE 5**
-- [x] IOT vulnerabilities
+- [ ] IOT vulnerabilities
 - [ ] Message Integrity
-- [x] IOT strategy for smarter cities
-- [x] vulnerabilities to attack (top 10)
-- [x] street light architecture in smarter cities DIAGRAM
-- [x] 4 Layer smart city architecture DIAGRAM
+- [ ] IOT strategy for smarter cities
+- [ ] vulnerabilities to attack (top 10)
+- [ ] street light architecture in smarter cities DIAGRAM
+- [ ] 4 Layer smart city architecture DIAGRAM
 - [ ] Privacy
 - [ ] Security
 - [ ] vulnerabilities solutions
