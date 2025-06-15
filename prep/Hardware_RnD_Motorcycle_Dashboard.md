@@ -19,7 +19,45 @@ Build deep skills in digital and hardware design for high-end R&D roles **and** 
   - Phone hardware mod (battery removal + USB-C swap)
 
 ---
+Here’s a **clean, barebones list** of just the **parts and tools** you’ll need for both your **Hardware R&D workflow** and **motorcycle dashboard system**:
 
+---
+
+## 🧩 Components
+
+### 🔧 Core Dashboard Hardware
+
+- [ ]  Samsung Galaxy Core Prime Duos (rooted / modded)
+- [ ]  USB Type-C breakout board or replacement port
+- [ ]  5V/2A Buck converter (12V → 5V power from bike battery)
+- [ ]  BLE TPMS sensors (x2 or x4)
+- [ ]  I2C temperature sensor (e.g. BMP280 or LM35)
+- [ ]  Analog voltage divider circuit (for battery monitoring)
+- [ ]  Optional: ESP32 (if offloading TPMS parsing)
+
+### ⚙️ Embedded + R&D Components
+
+- [ ]  Breadboard + jumper wires
+- [ ]  Verilog simulation tools (Yosys, GTKWave – software)
+- [ ]  Logic analyzer (optional, USB-type)
+- [ ]  Multimeter
+- [ ]  Optional FPGA dev board (e.g., iCEBreaker, Basys 3)
+
+---
+
+## 🛠️ Tools & Supplies
+
+- [ ]  Soldering iron (fine tip)
+- [ ]  Solder wire + flux
+- [ ]  Hot glue gun or epoxy (for port reinforcement)
+- [ ]  Isopropyl alcohol (90%+) for cleaning
+- [ ]  ESD-safe brush
+- [ ]  Precision screwdriver set (Philips 000+)
+- [ ]  Multimeter (basic digital type)
+- [ ]  Optional: magnifier/loupe
+---
+
+----
 ## 📅 Phase 1: Digital & RTL Foundations (Weeks 1–4)
 
 ### Week 1: Digital Logic + Verilog Basics
