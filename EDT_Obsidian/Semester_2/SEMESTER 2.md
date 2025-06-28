@@ -1,0 +1,7 @@
+- [ ] [[EC6104E - Electromagnetic Compatibility]]
+- [ ] [[EC6105E - Electronics Product Design]]
+- [ ] [[EC6106E - Design of Cyber Physical Systems]]
+- [ ] [[Elective_3]]
+- [ ] [[Elective_4]]
+- [ ] [[Elective_5]]
+- [ ] [[EC6196E - Project Phase I]]
