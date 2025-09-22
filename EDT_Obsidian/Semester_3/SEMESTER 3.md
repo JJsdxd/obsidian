@@ -1,2 +1,0 @@
-- [ ] [[EC7197E - Project Phase II]]
-- [ ] [[EC7198E - Project Phase III]]
