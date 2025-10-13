@@ -41,14 +41,14 @@
 		- Spherical Nature of Earth impact on ground wave propagation
 		- 300MHz above radio wave propagation
 		- Virtual height of ionospheric layer
-- 🍅 Sunday, April 20 2025, 9:11 PM [[Module 3]] 35 minute/s. 
+- 🍅 Sunday, April 20 2025, 9:11 PM [[Btech/IOT/MODULE 3]] 35 minute/s. 
 	- New/UnTicked Items :
 		- Average Probability of Error in BPSK Rayleigh fading Ts~=Tc
 		- Multicarrier modulation schemes ISI
-- 🍅 Sunday, April 20 2025, 11:38 PM [[Module 3]] 35 minute/s. 
-🍅 Wednesday, April 23 2025, 4:54 PM [[MODULE 1]]
-🍅 Wednesday, April 23 2025, 5:55 PM [[MODULE 1]]
-🍅 Wednesday, April 23 2025, 7:29 PM [[MODULE 1]]
-🍅 Wednesday, April 23 2025, 10:47 PM [[Module 2]]
-🍅 Thursday, April 24 2025, 6:39 AM [[BioMed/Module 3]]
-🍅 Saturday, April 26 2025, 12:22 AM [[IOT]]🍅 Sunday, April 27 2025, 7:10 AM [[RTOS/Module 1]]🍅 Sunday, April 27 2025, 8:19 AM [[RTOS/Module 1]]🍅 Wednesday, April 30 2025, 5:33 AM [[IOT/MODULE 1]]🍅 Wednesday, April 30 2025, 7:55 AM [[IOT/MODULE 2]]
+- 🍅 Sunday, April 20 2025, 11:38 PM [[Btech/IOT/MODULE 3]] 35 minute/s. 
+🍅 Wednesday, April 23 2025, 4:54 PM [[Btech/IOT/MODULE 1]]
+🍅 Wednesday, April 23 2025, 5:55 PM [[Btech/IOT/MODULE 1]]
+🍅 Wednesday, April 23 2025, 7:29 PM [[Btech/IOT/MODULE 1]]
+🍅 Wednesday, April 23 2025, 10:47 PM [[Btech/IOT/MODULE 2]]
+🍅 Thursday, April 24 2025, 6:39 AM [[Btech/BioMed/Module 3]]
+🍅 Saturday, April 26 2025, 12:22 AM [[IOT]]🍅 Sunday, April 27 2025, 7:10 AM [[Btech/RTOS/Module 1]]🍅 Sunday, April 27 2025, 8:19 AM [[Btech/RTOS/Module 1]]🍅 Wednesday, April 30 2025, 5:33 AM [[Btech/IOT/MODULE 1]]🍅 Wednesday, April 30 2025, 7:55 AM [[Btech/IOT/MODULE 2]]

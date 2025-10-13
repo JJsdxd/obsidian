@@ -116,7 +116,7 @@ $$
 		- cardiovascular system left atria gets oxygenated blood -> left ventricle -> rest of body via aorta , Right atria gets deoxygenated blood from body -> right ventricle -> lungs
 		- They must work in proper time relationship to ensure proper function
 		- cardiac excitation :- action potential initiates at top right atrium known as sinoartirial node (SA) ->activates both atria -> terminates at atrioventricular node (AVN) special fibers (delay line) times the signal properly for the ventricles and after the delay line it spreads through Purkinje fibers for activating both ventricles finally terminates at the tip /apex of the heart 
-		- [[Module 2]]
+		- [[Btech/BioMed/Module 2]]
 	- EEG:- potential from brain's electrical activity | Electrp encephalo gram
 		- frequency range from 1-30Hz
 		- amplitude range 20-100$\mu$V
