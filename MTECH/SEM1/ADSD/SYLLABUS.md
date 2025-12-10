@@ -1,0 +1,49 @@
+- [ ] [[MTECH/SEM1/ADSD/MODULE 1#|MODULE 1]]:
+	- [ ] PROCESSOR ARITHMETIC
+	- [ ] Two’s Complement Number System – Arithmetic Operations Floating Point Number system – IEEE 754 format & POSIT, 
+	- [ ] Basic binary codes.
+- [ ] [[MTECH/SEM1/ADSD/MODULE 2#|MODULE 2]]:
+	- [ ] COMBINATIONAL LOGIC DESIGN
+	- [ ] Functional blocks – 
+		- [ ] Decoders, 
+		- [ ] Encoders, 
+		- [ ] Three-state devices, 
+		- [ ] Multiplexers, 
+		- [ ] Parity circuits, 
+		- [ ] Comparators, 
+		- [ ] Adders, 
+		- [ ] substractor, 
+		- [ ] carry look- ahead adder, 
+		- [ ] timing analysis. 
+		- [ ] Combinational multiplier structures, 
+		- [ ] Timing hazards.
+- [ ] [[MTECH/SEM1/ADSD/MODULE 3#|MODULE 3]]:
+	- [ ] SEQUENTIAL LOGIC DESIGN
+	- [ ] Latches and Flip-Flops, 
+	- [ ] Sequential logic circuits – timing analysis (Set up and hold times) Synchronizers and meta  stability, 
+	- [ ] State machines – Mealy & Moore machines, 
+	- [ ] Analysis, 
+	- [ ] FSM design using D Flip-Flops, 
+	- [ ] FSM optimization and partitioning; 
+	- [ ] FSM Design examples: Vending machine, Traffic light controller, Washing machine.
+- [ ] [[MTECH/SEM1/ADSD/MODULE 4#|MODULE 4]]:
+	- [ ] DIGITAL SUBSYSTEMS
+	- [ ] ALU, 4-bit combinational multiplier, 
+	- [ ] Barrel shifter, 
+	- [ ] Simple fixed point to floating point encoder, 
+	- [ ] Dual Priority encoder, 
+	- [ ] Cascading comparators .
+	- [ ] Pattern (sequence) detector, 
+	- [ ] Programmable Up-down counter, 
+	- [ ] Round robin arbiter with 3 requesters, 
+	- [ ] Process Controller, 
+	- [ ] FIFO
+- [ ] [[MTECH/SEM1/ADSD/MODULE 5#|MODULE 5]]:
+	- [ ] DIGITAL LOGIC TESTING
+	- [ ] Introduction to digital logic testing, 
+	- [ ] Fault modelling, 
+	- [ ] fault collapsing, 
+	- [ ] fault simulation test generation ,
+	- [ ] Introduction to Design For Testability(DFT),
+	- [ ] DFT and 
+	- [ ] Built-In-Self-Test(BIST).

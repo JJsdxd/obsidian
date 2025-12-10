@@ -1,0 +1,53 @@
+- [ ] **Module 1:**
+	- [ ] Probability Theory and Random Variables
+	- [ ] Axiomatic definition of probability, 
+	- [ ] Bayes’ theorem with applications, 
+	- [ ] Random variables: discrete and continuous,
+	- [ ] Cumulative distribution function (CDF), 
+	- [ ] Probability Mass Function (PMF), 
+	- [ ] Probability Density Function (PDF),
+	- [ ] Conditional and joint distributions, 
+	- [ ] independence of random variables.
+- [ ] **Module 2:**
+	- [ ] Expectation, Moment Generating Functions, and Limit Theorems
+	- [ ] Expectation and fundamental properties, 
+	- [ ] Moment generating functions (MGF) and characteristic functions (CF),
+	- [ ] Conditional expectation and covariance matrix, 
+	- [ ] Uncorrelated random variables and joint Gaussian PDFs, 
+	- [ ] Markov inequality, 
+	- [ ] Chebyshev inequalities, 
+	- [ ] Central Limit Theorem (CLT), 
+	- [ ] weak and strong laws of large numbers, 
+	- [ ] Modes of convergence of random variables.
+	- [ ] Random Process, 
+	- [ ] Markov Process and Markov Chain.
+- [ ] **Module 3:**
+	- [ ] Algebraic Structures and Vector Spaces
+	- [ ] Groups, rings, and fields (basic definitions and examples), 
+	- [ ] Vector spaces and subspaces over a field, Linear
+	- [ ] independence, span, basis, and dimension, 
+	- [ ] Direct sum of subspaces. System of Equations, 
+	- [ ] Solving system of linear equations using Gaussian elimination.
+- [ ] **Module 4:**
+	- [ ] Linear Transformations
+	- [ ] Linear transformations and their matrix representation, 
+	- [ ] Four fundamental subspaces: 
+		- [ ] null space, 
+		- [ ] column space,
+		- [ ] row space, 
+		- [ ] left null space, 
+		- [ ] Rank, 
+		- [ ] Rank-Nullity Theorem, 
+	- [ ] Solving systems of linear equations: existence and uniqueness, 
+	- [ ] Transpose of a linear transformation. 
+	- [ ] Orthogonality & Orthonormality, Orthogonalization, Eigen Value, Eigen Vector, Diagonalization of vectors.
+- [ ] **Module 5:**
+	- [ ] Interpolation, 
+	- [ ] Numerical Differentiation & Integration
+	- [ ] Lagrange’s interpolation, 
+	- [ ] Newton’s divided difference interpolation, 
+	- [ ] Newton’s forward and backward difference interpolation, 
+	- [ ] Approximation of derivatives using interpolation polynomials, 
+	- [ ] Numerical integration using:
+		- [ ] Trapezoidal rule, 
+		- [ ] Simpson’s 1/3 rule.

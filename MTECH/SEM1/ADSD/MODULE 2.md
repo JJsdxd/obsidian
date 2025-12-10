@@ -1,0 +1,15 @@
+- [ ] COMBINATIONAL LOGIC DESIGN
+	
+- [ ] Functional blocks – 
+	- [ ] Decoders, 
+	- [ ] Encoders, 
+	- [ ] Three-state devices, 
+	- [ ] Multiplexers, 
+	- [ ] Parity circuits, 
+	- [ ] Comparators, 
+	- [ ] Adders, 
+	- [ ] substractor, 
+	- [ ] carry look- ahead adder, 
+	- [ ] timing analysis. 
+	- [ ] Combinational multiplier structures, 
+	- [ ] Timing hazards.

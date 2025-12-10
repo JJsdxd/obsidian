@@ -1,0 +1,37 @@
+- [ ] Module 1:
+	- [ ] Introduction to Embedded Systems
+	- [ ] Overview of embedded system architecture, Development and debugging Tools for Embedded Systems,
+	- [ ] Overview ARM Architecture - Architecture Versions, Instruction Set Development,Thumb-2 and Instruction Set Architecture,
+	- [ ] AMBA, AXI bus overview. 
+	- [ ] Overview of the ARM Cortex-Mx Processor Architectures.
+- [ ] Module 2:
+	- [ ] ARM Cortex M4 Microcontroller System
+	- [ ] ARM Cortex M4 Core, Interconnect Matrix in ARM Cortex M4 Microcontroller, 
+	- [ ] System configuration Controller,
+	- [ ] NVIC, 
+	- [ ] External Interrupt Controllers, 
+	- [ ] DMA, 
+	- [ ] Reset and Clock Control, 
+	- [ ] Clock Recovery System, 
+	- [ ] Power Control.
+- [ ] Module 3:
+	- [ ] ARM Cortex M4 Microcontroller Peripheral Overview
+	- [ ] Introduction to ARM Cortex-M4 Programming, overview of CMSIS, GPIO, ADC, DAC, Communication & Peripherals - USART, UART, I2C, SPI, USB, CAN
+	- [ ] Watchdogs and Timers, 
+	- [ ] PWM.
+- [ ] Module 4:
+	- [ ] Memory, 
+	- [ ] Safety and Security in ARM Cortex Microcontroller
+	- [ ] Flash, Quad SPI Interface, 
+	- [ ] Flexible Memory controller, 
+	- [ ] CRC, 
+	- [ ] Random Number Generator, 
+	- [ ] memory protections,
+	- [ ] Advanced Encryption Standard HW Accelerator (AES), 
+	- [ ] Safety support.
+- [ ] Module 5:
+	- [ ] Advanced Embedded Controllers, Features and case studies
+	- [ ] Programming for Power-Efficient Computing - High Level and low level Techniques, Cortex M7, M23 and M33
+	- [ ] Controllers and Features, 
+	- [ ] Overview of mbed platform, 
+	- [ ] Embedded Systems case studies - Consumer, Medical, Automotive.
